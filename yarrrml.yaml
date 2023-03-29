@@ -1,0 +1,44 @@
+prefixes:
+  ns: "http://example.org/"
+  rdfs: "http://www.w3.org/2000/01/rdf-schema#"
+  xsd: "http://www.w3.org/2001/XMLSchema#"
+
+mappings:
+  companies:
+    sources:
+      - ['nasdaq_screener.csv~csv']
+    s: ns:$(Symbol)
+    po:
+      - [a, ns:Company]
+      - [ns:symbol, $(Symbol)]
+      - [ns:name, $(Name)]
+      - [ns:lastSale, $(Last Sale), xsd:float]
+      - [ns:netChange, $(Net Change), xsd:float]
+      - [ns:percentChange, $(% Change), xsd:float]
+      - [ns:marketCap, $(Market Cap), xsd:float]
+      - [ns:country, $(Country)]
+      - [ns:ipoYear, $(IPO Year), xsd:integer]
+      - [ns:volume, $(Volume), xsd:integer]
+      - [ns:sector, $(Sector)]
+      - [ns:industry, $(Industry)]
+
+
+  executives:
+    sources:
+      - ['Executives.csv~csv']
+    s: ns:Person_$(Ticker)_$(Name)
+    po:
+      - [a, ns:Person]
+      - [ns:name, $(Name)]
+      - [ns:title, $(Title)]
+      - [ns:isExecutiveOf, ns:$(Ticker)]
+
+  institutional_holders:
+    sources:
+      - ["Top_Institutional_Holders.csv~csv"]
+    s: ns:Holder_$(Ticker)_$(Holder)
+    po:
+      - [a, ns:InstitutionalHolder]
+      - [ns:holderName, $(Holder)]
+      - [ns:sharePercentage, "$(Share)", xsd:float]
+      - [ns:holdsSharesOf, ns:$(Ticker)]
