@@ -97,20 +97,20 @@ map:om_015 rdf:type rr:ObjectMap ;
 	rr:termType rr:Literal .
 
 map:om_016 rdf:type rr:ObjectMap ;
-	rr:constant "http://example.org/InstitutionalHolder" ;
+	rr:constant "http://example.org/InstitutionalInvestor" ;
 	rr:termType rr:IRI .
 
 map:om_017 rml:reference "Holder" ;
 	rdf:type rr:ObjectMap ;
 	rr:termType rr:Literal .
 
-map:om_018 rml:reference "Share" ;
-	rdf:type rr:ObjectMap ;
-	rr:datatype xsd:float ;
+map:om_018 rdf:type rr:ObjectMap ;
+	rr:template "http://example.org/{Ticker}" ;
 	rr:termType rr:Literal .
 
-map:om_019 rdf:type rr:ObjectMap ;
-	rr:template "http://example.org/{Ticker}" ;
+map:om_019 rml:reference "Share" ;
+	rdf:type rr:ObjectMap ;
+	rr:datatype xsd:float ;
 	rr:termType rr:Literal .
 
 map:pm_000 rdf:type rr:PredicateMap ;
@@ -165,13 +165,13 @@ map:pm_016 rdf:type rr:PredicateMap ;
 	rr:constant rdf:type .
 
 map:pm_017 rdf:type rr:PredicateMap ;
-	rr:constant ns:holderName .
+	rr:constant ns:name .
 
 map:pm_018 rdf:type rr:PredicateMap ;
-	rr:constant ns:sharePercentage .
+	rr:constant ns:shareholderOf .
 
 map:pm_019 rdf:type rr:PredicateMap ;
-	rr:constant ns:holdsSharesOf .
+	rr:constant ns:sharePercentage .
 
 map:pom_000 rdf:type rr:PredicateObjectMap ;
 	rr:objectMap map:om_000 ;
@@ -260,10 +260,10 @@ map:s_000 rdf:type rr:SubjectMap ;
 	rr:template "http://example.org/{Symbol}" .
 
 map:s_001 rdf:type rr:SubjectMap ;
-	rr:template "http://example.org/Person_{Ticker}_{Name}" .
+	rr:template "http://example.org/{Name}" .
 
 map:s_002 rdf:type rr:SubjectMap ;
-	rr:template "http://example.org/Holder_{Ticker}_{Holder}" .
+	rr:template "http://example.org/{Holder}" .
 
 map:source_000 rml:referenceFormulation ql:CSV ;
 	rml:source "nasdaq_screener.csv" ;

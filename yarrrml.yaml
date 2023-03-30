@@ -26,7 +26,7 @@ mappings:
   executives:
     sources:
       - ['Executives.csv~csv']
-    s: ns:Person_$(Ticker)_$(Name)
+    s: ns:$(Name)
     po:
       - [a, ns:Person]
       - [ns:name, $(Name)]
@@ -35,10 +35,10 @@ mappings:
 
   institutional_holders:
     sources:
-      - ["Top_Institutional_Holders.csv~csv"]
-    s: ns:Holder_$(Ticker)_$(Holder)
+      - ['Top_Institutional_Holders.csv~csv']
+    s: ns:$(Holder)
     po:
-      - [a, ns:InstitutionalHolder]
-      - [ns:holderName, $(Holder)]
-      - [ns:sharePercentage, "$(Share)", xsd:float]
-      - [ns:holdsSharesOf, ns:$(Ticker)]
+      - [a, ns:InstitutionalInvestor]
+      - [ns:name, $(Holder)]
+      - [ns:shareholderOf, ns:$(Ticker)]
+      - [ns:sharePercentage, $(Share), xsd:float]
