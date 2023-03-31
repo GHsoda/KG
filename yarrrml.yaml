@@ -1,5 +1,5 @@
 prefixes:
-  ns: "http://example.org/"
+  ex: "http://example.org/"
   rdfs: "http://www.w3.org/2000/01/rdf-schema#"
   xsd: "http://www.w3.org/2001/XMLSchema#"
 
@@ -7,38 +7,67 @@ mappings:
   companies:
     sources:
       - ['nasdaq_screener.csv~csv']
-    s: ns:$(Symbol)
+    s: ex:$(Symbol)
     po:
-      - [a, ns:Company]
-      - [ns:symbol, $(Symbol)]
-      - [ns:name, $(Name)]
-      - [ns:lastSale, $(Last Sale), xsd:float]
-      - [ns:netChange, $(Net Change), xsd:float]
-      - [ns:percentChange, $(% Change), xsd:float]
-      - [ns:marketCap, $(Market Cap), xsd:float]
-      - [ns:country, $(Country)]
-      - [ns:ipoYear, $(IPO Year), xsd:integer]
-      - [ns:volume, $(Volume), xsd:integer]
-      - [ns:sector, $(Sector)]
-      - [ns:industry, $(Industry)]
-
+      - [a, ex:Company]
+      - [rdfs:symbol, $(Symbol)]
+      - [rdfs:name, $(Name)]
+      - [rdfs:lastSale, $(Last Sale), xsd:float]
+      - [rdfs:netChange, $(Net Change), xsd:float]
+      - [rdfs:percentChange, $(% Change), xsd:float]
+      - [rdfs:marketCap, $(Market Cap), xsd:float]
+      - [rdfs:country, $(Country)]
+      - [rdfs:ipoYear, $(IPO Year), xsd:integer]
+      - [rdfs:volume, $(Volume), xsd:integer]
+      - [rdfs:sector, $(Sector)]
+      - [rdfs:industry, $(Industry)]
 
   executives:
     sources:
       - ['Executives.csv~csv']
-    s: ns:$(Name)
+    s: ex:$(Name)
     po:
-      - [a, ns:Person]
-      - [ns:name, $(Name)]
-      - [ns:title, $(Title)]
-      - [ns:isExecutiveOf, ns:$(Ticker)]
+      - [a, ex:Person]
+      - [rdfs:name, $(Name)]
+      - [rdfs:title, $(Title)]
+      - p: rdfs:isExecutiveOf
+        o:
+        - mapping: companies
+          condition:
+            function: equal
+            parameters:
+              - [str1, $(Ticker), s]
+              - [str2, $(Symbol), o]
+
 
   institutional_holders:
     sources:
       - ['Top_Institutional_Holders.csv~csv']
-    s: ns:$(Holder)
+    s: ex:$(Holder)
     po:
-      - [a, ns:InstitutionalInvestor]
-      - [ns:name, $(Holder)]
-      - [ns:shareholderOf, ns:$(Ticker)]
-      - [ns:sharePercentage, $(Share), xsd:float]
+      - [a, ex:InstitutionalInvestor]
+      - [rdfs:name, $(Holder)]
+
+  investment:
+    sources:
+      - ['Top_Institutional_Holders.csv~csv']
+    s: ex:Investment_$(Ticker)_$(Holder)
+    po:
+      - [a, ex:Investment]
+      - p: rdfs:investor
+        o: 
+        - mapping: institutional_holders
+          condition:
+            function: equal
+            parameters:
+              - [str1, $(Holder), s]
+              - [str2, $(Holder), o]
+      - p: rdfs:shareholderOf
+        o: 
+        - mapping: companies
+          condition:
+            function: equal
+            parameters:
+              - [str1, $(Ticker), s]
+              - [str2, $(Symbol), o]
+      - [rdfs:sharePercentage, $(Share), xsd:float]

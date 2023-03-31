@@ -23,7 +23,7 @@ AAC,"Glazer Capital LLC",27.59
 AAC,"Aristeia Capital, LLC",17.62
 AAC,"First Trust Capital Management L.P.",8.45
 AAC,"Weiss Asset Management LP",7.60
-AAC,"Bank of Montreal/Can/",7.53
+AAC,"Bank of Montreal(Can)",7.53
 AAC,"Saba Capital Management, L.P.",7.27
 AAC,"HSBC Holdings Plc",7.24
 AAC,"Westchester Capital Management, LLC",7.21
@@ -815,7 +815,7 @@ ACRV,"Wellington Management Group, LLP",4.31
 ACRV,"Federated Hermes, Inc.",3.94
 ACRV,"NEA Management Company, LLC",2.31
 ACRV,"Healthcor Management LP",1.36
-ACRV,"Bank of Montreal/Can/",0.20
+ACRV,"Bank of Montreal(Can)",0.20
 ACRX,"Armistice Capital, LLC",4.93
 ACRX,"Rock Springs Capital Management, LP",4.25
 ACRX,"Vanguard Group, Inc. (The)",3.07
@@ -826,7 +826,7 @@ ACRX,"Geode Capital Management, LLC",0.81
 ACRX,"Values First Advisors, Inc.",0.50
 ACRX,"State Street Corporation",0.30
 ACRX,"Texas Capital Bank Wealth Management Services, Inc.",0.29
-ACST,"National Bank of Canada/FI",0.04
+ACST,"National Bank of Canada-FI",0.04
 ACST,"Geode Capital Management, LLC",0.04
 ACST,"Morgan Stanley",0.03
 ACST,"Advisory Services Network, LLC",0.00
@@ -1312,7 +1312,7 @@ AEM,"Vanguard Group, Inc. (The)",3.50
 AEM,"Royal Bank of Canada",3.17
 AEM,"Massachusetts Financial Services Co.",2.80
 AEM,"Deutsche Bank Aktiengesellschaft",2.27
-AEM,"Bank of Montreal/Can/",2.13
+AEM,"Bank of Montreal(Can)",2.13
 AEM,"FMR, LLC",1.98
 AEM,"Mackenzie Financial Corporation",1.89
 AEM,"Amundi",1.69
@@ -1417,7 +1417,7 @@ AEZS,"Group One Trading, L.P.",0.18
 AEZS,"Edmond De Rothschild Holding S.A.",0.08
 AEZS,"Royal Bank of Canada",0.01
 AEZS,"Tower Research Capital LLC (TRC)",0.01
-AEZS,"National Bank of Canada/FI",0.01
+AEZS,"National Bank of Canada-FI",0.01
 AEZS,"UBS Group AG",0.01
 AFAR,"Glazer Capital LLC",9.53
 AFAR,"Hudson Bay Capital Management Lp",8.52
@@ -1545,7 +1545,7 @@ AFTR,"UBS OConnor LLC",5.76
 AFTR,"Weiss Asset Management LP",5.45
 AFTR,"Glazer Capital LLC",4.90
 AFTR,"Deutsche Bank Aktiengesellschaft",4.80
-AFTR,"Bank of Montreal/Can/",4.40
+AFTR,"Bank of Montreal(Can)",4.40
 AFTR,"Millennium Management Llc",4.16
 AFTR,"Moore Capital Management, LP",4.00
 AFYA,"BAMCO Inc.",9.55
@@ -2442,7 +2442,7 @@ ALGS,"Vivo Capital, LLC",8.28
 ALGS,"HHLR Advisors, LTD",5.52
 ALGS,"Versant Venture Management, LLC",5.42
 ALGS,"Baker Brothers Advisors, LLC",4.85
-ALGS,"Novo Holdings A/S",4.55
+ALGS,"Novo Holdings",4.55
 ALGS,"Tang Capital Management, LLC",3.91
 ALGS,"Adage Capital Partners GP L.L.C.",3.44
 ALGS,"Bank of America Corporation",2.68
@@ -2812,13 +2812,13 @@ ALXO,"Cormorant Asset Management, LP",1.75
 ALYA,"Claret Asset Management Corp",6.33
 ALYA,"Ancora Advisors, Llc",2.89
 ALYA,"Jarislowsky, Fraser Ltd",2.43
-ALYA,"National Bank of Canada/FI",2.30
+ALYA,"National Bank of Canada-FI",2.30
 ALYA,"Dimensional Fund Advisors LP",1.15
 ALYA,"Gamco Investors Inc",1.01
 ALYA,"Fiera Capital Corporation",0.91
 ALYA,"Renaissance Technologies, LLC",0.83
 ALYA,"Teton Advisors, Inc",0.82
-ALYA,"Bank of Montreal/Can/",0.66
+ALYA,"Bank of Montreal(Can)",0.66
 ALZN,"Vanguard Group, Inc. (The)",4.25
 ALZN,"Truist Financial Corp",2.40
 ALZN,"Blackrock Inc.",0.62
@@ -3964,7 +3964,7 @@ APRN,"Wolf Hill Capital Management, LP",2.40
 APRN,"Vanguard Group, Inc. (The)",1.41
 APRN,"Blackrock Inc.",1.36
 APRN,"River & Mercantile Asset Management LLP",1.11
-APRN,"Bank of Montreal/Can/",0.84
+APRN,"Bank of Montreal(Can)",0.84
 APRN,"Sculptor Capital Lp",0.82
 APRN,"SG Americas Securities, LLC",0.58
 APRN,"Geode Capital Management, LLC",0.52
@@ -4083,7 +4083,7 @@ AQMS,"State Street Corporation",0.32
 AQMS,"Titleist Asset Management, Ltd.",0.21
 AQMS,"Northern Trust Corporation",0.16
 AQMS,"Price (T.Rowe) Associates Inc",0.14
-AQN,"Bank of Montreal/Can/",5.57
+AQN,"Bank of Montreal(Can)",5.57
 AQN,"Royal Bank of Canada",5.34
 AQN,"Toronto Dominion Bank",4.11
 AQN,"Vanguard Group, Inc. (The)",3.48
@@ -4091,7 +4091,7 @@ AQN,"Bank Of Nova Scotia /",2.03
 AQN,"TD Asset Management, Inc",1.90
 AQN,"Cibc World Markets, Inc.",1.59
 AQN,"Norges Bank Investment Management",1.27
-AQN,"National Bank of Canada/FI",1.26
+AQN,"National Bank of Canada-FI",1.26
 AQN,"Legal & General Group PLC",1.14
 AQST,"Bratton Capital Management, LP",18.12
 AQST,"Vanguard Group, Inc. (The)",2.18
@@ -4707,7 +4707,7 @@ ASCA,"Glazer Capital LLC",7.19
 ASCA,"Karpus Management, Inc.",6.72
 ASCA,"MMCAP International, Inc. SPC",5.75
 ASCA,"Hudson Bay Capital Management Lp",4.60
-ASCA,"Bank of Montreal/Can/",4.44
+ASCA,"Bank of Montreal(Can)",4.44
 ASCA,"Oaktree Capital Management Lp",3.34
 ASCA,"Shaolin Capital Management LLC",3.16
 ASCA,"Starboard Value LP",2.88
@@ -5368,7 +5368,7 @@ ATVI,"Geode Capital Management, LLC",1.99
 ATVI,"Flossbach von Storch AG",1.46
 ATVI,"Morgan Stanley",1.09
 ATXG,"Geode Capital Management, LLC",0.09
-ATXG,"Bank of Montreal/Can/",0.06
+ATXG,"Bank of Montreal(Can)",0.06
 ATXG,"Two Sigma Securities, LLC",0.04
 ATXG,"UBS Group AG",0.03
 ATXI,"Citadel Advisors Llc",0.71
@@ -5392,7 +5392,7 @@ ATXS,"Vanguard Group, Inc. (The)",3.16
 ATXS,"Ghost Tree Capital, LLC",2.97
 ATXS,"Altium Capital Management, LP",2.64
 ATY,"K2 Principal Fund, L.P.",5.05
-ATY,"Bank of Montreal/Can/",4.86
+ATY,"Bank of Montreal(Can)",4.86
 ATY,"Invenomic Capital Management, LP",1.39
 ATY,"G2 Investment Partners Management LLC",0.43
 ATY,"Two Sigma Advisers, LP",0.34
@@ -5563,7 +5563,7 @@ AUY,"Goldman Sachs Group Inc",2.97
 AUY,"Royal Bank of Canada",2.66
 AUY,"Renaissance Technologies, LLC",2.11
 AUY,"JP Morgan Chase & Company",2.07
-AUY,"Bank of Montreal/Can/",1.61
+AUY,"Bank of Montreal(Can)",1.61
 AUY,"Magnetar Financial LLC",1.60
 AUY,"Two Sigma Advisers, LP",1.58
 AUY,"Blackrock Inc.",1.48
@@ -6360,7 +6360,7 @@ BALY,"TFG Asset Management GP Ltd",1.84
 BALY,"Paulson & Company, Inc.",1.64
 BALY,"Sycale Advisors (NY) LLC",1.56
 BALY,"State Street Corporation",1.26
-BAM,"Bank of Montreal/Can/",3.13
+BAM,"Bank of Montreal(Can)",3.13
 BAM,"TD Asset Management, Inc",1.70
 BAM,"Davenport & Co Llc",0.80
 BAM,"Cooke & Bieler LP",0.59
@@ -6545,7 +6545,7 @@ BBCP,"Dimensional Fund Advisors LP",0.98
 BBD,"Sprucegrove Investment Management Ltd",1.57
 BBD,"ABRDN PLC",1.56
 BBD,"Baillie Gifford and Company",1.06
-BBD,"National Bank of Canada/FI",0.92
+BBD,"National Bank of Canada-FI",0.92
 BBD,"Franklin Resources, Inc.",0.88
 BBD,"Lazard Asset Management LLC",0.88
 BBD,"Ubs Asset Management Americas Inc",0.78
@@ -6579,7 +6579,7 @@ BBIG,"Geode Capital Management, LLC",1.63
 BBIG,"Hudson Bay Capital Management Lp",1.05
 BBIG,"Northern Trust Corporation",0.83
 BBIG,"Susquehanna International Group, LLP",0.61
-BBIG,"National Bank of Canada/FI",0.31
+BBIG,"National Bank of Canada-FI",0.31
 BBIG,"Bank Of New York Mellon Corporation",0.28
 BBIG,"Nuveen Asset Management",0.28
 BBIO,"Kohlberg Kravis Roberts & Co. L.P.",20.78
@@ -6632,7 +6632,7 @@ BBU,"CIBC Asset Management Inc.",4.21
 BBU,"CI Investments Inc.",3.18
 BBU,"1832 Asset Management L.P.",2.02
 BBU,"Beutel, Goodman & Company Ltd",1.55
-BBU,"Bank of Montreal/Can/",1.26
+BBU,"Bank of Montreal(Can)",1.26
 BBU,"Cibc World Markets, Inc.",0.76
 BBU,"Forge First Asset Management Inc.",0.67
 BBUC,"Brookfield Asset Management Inc.",65.78
@@ -6747,9 +6747,9 @@ BCDA,"Brown Advisory  Inc.",0.68
 BCDA,"Dimensional Fund Advisors LP",0.57
 BCDA,"Millennium Management Llc",0.44
 BCE,"Royal Bank of Canada",8.49
-BCE,"Bank of Montreal/Can/",3.28
+BCE,"Bank of Montreal(Can)",3.28
 BCE,"Capital Research Global Investors",1.83
-BCE,"National Bank of Canada/FI",1.74
+BCE,"National Bank of Canada-FI",1.74
 BCE,"Bank Of Nova Scotia /",1.50
 BCE,"Vanguard Group, Inc. (The)",1.45
 BCE,"Cibc World Markets, Inc.",1.39
@@ -7095,7 +7095,7 @@ BEN,"Morgan Stanley",0.75
 BEP,"Brookfield Asset Management Inc.",24.97
 BEP,"FIL LTD",2.93
 BEP,"1832 Asset Management L.P.",2.66
-BEP,"Bank of Montreal/Can/",2.42
+BEP,"Bank of Montreal(Can)",2.42
 BEP,"FMR, LLC",2.31
 BEP,"Principal Financial Group, Inc.",2.26
 BEP,"Royal Bank of Canada",2.15
@@ -7177,7 +7177,7 @@ BFC,"Vanguard Group, Inc. (The)",4.52
 BFC,"Associated Banc-Corp",3.31
 BFC,"State Street Corporation",1.49
 BFC,"Geode Capital Management, LLC",1.22
-BFC,"Bank of Montreal/Can/",1.17
+BFC,"Bank of Montreal(Can)",1.17
 BFC,"Northern Trust Corporation",0.81
 BFC,"Synovus Financial Corporation",0.67
 BFC,"Stifel Financial Corporation",0.49
@@ -7455,7 +7455,7 @@ BHC,"Paulson & Company, Inc.",7.31
 BHC,"Franklin Resources, Inc.",5.14
 BHC,"Goldentree Asset Management LP",4.56
 BHC,"Nomura Holdings Inc.",4.56
-BHC,"National Bank of Canada/FI",3.63
+BHC,"National Bank of Canada-FI",3.63
 BHC,"Vanguard Group, Inc. (The)",3.02
 BHC,"Laurion Capital Management, LP",2.99
 BHC,"Shaw D.E. & Co., Inc.",2.27
@@ -7759,7 +7759,7 @@ BIOX,"Primecap Management Company",0.30
 BIOX,"Royce & Associates LP",0.27
 BIP,"Royal Bank of Canada",7.99
 BIP,"Capital World Investors",7.32
-BIP,"Bank of Montreal/Can/",7.14
+BIP,"Bank of Montreal(Can)",7.14
 BIP,"1832 Asset Management L.P.",3.23
 BIP,"Principal Financial Group, Inc.",3.12
 BIP,"TD Asset Management, Inc",3.03
@@ -7814,7 +7814,7 @@ BITF,"Vident Investment Advisory, LLC",0.49
 BITF,"AWM Investment Company, Inc.",0.39
 BITF,"State Street Corporation",0.37
 BITF,"Cetera Advisors LLC",0.30
-BITF,"Bank of Montreal/Can/",0.29
+BITF,"Bank of Montreal(Can)",0.29
 BITF,"First Trust Advisors LP",0.26
 BITF,"Geode Capital Management, LLC",0.23
 BIVI,"swisspartners Ltd.",3.09
@@ -7853,7 +7853,7 @@ BJRI,"Dimensional Fund Advisors LP",4.46
 BJRI,"Neuberger Berman Group, LLC",3.93
 BJRI,"Millennium Management Llc",3.81
 BJRI,"State Street Corporation",3.62
-BJRI,"Cramer Rosenthal Mcglynn LLC/Adv",3.40
+BJRI,"Cramer Rosenthal Mcglynn LLC-Adv",3.40
 BJRI,"Russell Investments Group, Ltd.",2.61
 BJRI,"Emerald Advisers, LLC",2.60
 BK,"Vanguard Group, Inc. (The)",8.37
@@ -8198,7 +8198,7 @@ BLNK,"State Street Corporation",4.35
 BLNK,"Goldman Sachs Group Inc",3.60
 BLNK,"Invesco Ltd.",3.19
 BLNK,"Geode Capital Management, LLC",2.91
-BLNK,"National Bank of Canada/FI",2.32
+BLNK,"National Bank of Canada-FI",2.32
 BLNK,"Candriam Luxembourg S.C.A.",1.89
 BLNK,"Wellington Management Group, LLP",1.88
 BLNK,"Northern Trust Corporation",1.38
@@ -8301,7 +8301,7 @@ BMA,"HSBC Holdings Plc",0.10
 BMA,"Renaissance Technologies, LLC",0.09
 BMAC,"Saba Capital Management, L.P.",7.26
 BMAC,"Adage Capital Partners GP L.L.C.",6.52
-BMAC,"Bank of Montreal/Can/",6.23
+BMAC,"Bank of Montreal(Can)",6.23
 BMAC,"Cubist Systematic Strategies, LLC",4.68
 BMAC,"Marshall Wace LLP",4.01
 BMAC,"Shaw D.E. & Co., Inc.",3.83
@@ -8381,12 +8381,12 @@ BML-PL,"Tradition Wealth Management, LLC",4.98
 BML-PL,"Highlander Capital Management, LLC",1.78
 BMO,"Royal Bank of Canada",9.25
 BMO,"Vanguard Group, Inc. (The)",3.41
-BMO,"Bank of Montreal/Can/",3.39
+BMO,"Bank of Montreal(Can)",3.39
 BMO,"TD Asset Management, Inc",2.25
 BMO,"Bank Of Nova Scotia /",1.80
 BMO,"Cibc World Markets, Inc.",1.74
 BMO,"Mackenzie Financial Corporation",1.73
-BMO,"National Bank of Canada/FI",1.49
+BMO,"National Bank of Canada-FI",1.49
 BMO,"1832 Asset Management L.P.",1.18
 BMO,"Toronto Dominion Bank",1.17
 BMRA,"Granahan Investment Management LLC",8.31
@@ -8514,7 +8514,7 @@ BNR,"Sumitomo Mitsui Trust Holdings, Inc.",0.81
 BNR,"Renaissance Technologies, LLC",0.61
 BNRE,"Montrusco Bolton Investments Inc.",2.87
 BNRE,"TD Asset Management, Inc",0.93
-BNRE,"Bank of Montreal/Can/",0.89
+BNRE,"Bank of Montreal(Can)",0.89
 BNRE,"Markel Corporation",0.63
 BNRE,"Swiss National Bank",0.25
 BNRE,"Tandem Capital Management Corporation",0.25
@@ -8527,10 +8527,10 @@ BNRG,"Jane Street Group, LLC",0.25
 BNRG,"Edmond De Rothschild Holding S.A.",0.02
 BNRG,"JP Morgan Chase & Company",0.01
 BNS,"Royal Bank of Canada",9.42
-BNS,"Bank of Montreal/Can/",4.92
+BNS,"Bank of Montreal(Can)",4.92
 BNS,"Vanguard Group, Inc. (The)",3.63
 BNS,"Toronto Dominion Bank",2.06
-BNS,"National Bank of Canada/FI",1.92
+BNS,"National Bank of Canada-FI",1.92
 BNS,"Cibc World Markets, Inc.",1.88
 BNS,"TD Asset Management, Inc",1.66
 BNS,"1832 Asset Management L.P.",1.37
@@ -8640,7 +8640,7 @@ BOKF,"CIBC WORLD MARKET CORPORATION",1.56
 BOKF,"State Street Corporation",1.42
 BOKF,"Diamond Hill Capital Management Inc",1.30
 BOLT,"Vivo Capital, LLC",10.28
-BOLT,"Novo Holdings A/S",9.84
+BOLT,"Novo Holdings",9.84
 BOLT,"Citadel Advisors Llc",7.31
 BOLT,"Sofinnova Investments, Inc.",7.31
 BOLT,"Suvretta Capital Management, LLC",7.09
@@ -8677,7 +8677,7 @@ BORR,"Skandinaviska Enskilda Banken AB publ",1.53
 BORR,"Encompass Capital Advisors, LLC",1.03
 BORR,"State Street Corporation",0.96
 BORR,"Geode Capital Management, LLC",0.67
-BORR,"Bank of Montreal/Can/",0.54
+BORR,"Bank of Montreal(Can)",0.54
 BORR,"Northern Trust Corporation",0.53
 BORR,"Credit Agricole S.A.",0.45
 BORR,"Barclays Plc",0.42
@@ -8864,7 +8864,7 @@ BRAG,"Lynwood Capital Management Inc.",1.04
 BRAG,"Cidel Asset Management, Inc.",0.38
 BRAG,"Garde Capital, Inc.",0.25
 BRAG,"Cresset Asset Management, LLC",0.17
-BRAG,"Bank of Montreal/Can/",0.16
+BRAG,"Bank of Montreal(Can)",0.16
 BRAG,"HBK Sorce Advisory LLC",0.12
 BRAG,"Susquehanna International Group, LLP",0.12
 BRAG,"Morgan Stanley",0.04
@@ -9455,7 +9455,7 @@ BTG,"First Eagle Investment Management, LLC",2.68
 BTG,"Dimensional Fund Advisors LP",1.47
 BTG,"FIL LTD",1.26
 BTG,"Ninety One UK Ltd",1.17
-BTG,"Bank of Montreal/Can/",1.11
+BTG,"Bank of Montreal(Can)",1.11
 BTI,"GQG Partners LLC",1.49
 BTI,"Orbis Allan Gray Ltd",0.57
 BTI,"Capital International Investors",0.43
@@ -9562,7 +9562,7 @@ BUD,"Manufacturers Life Insurance Co.",0.57
 BUD,"Fisher Asset Management, LLC",0.54
 BUD,"Capital International Investors",0.43
 BUD,"Royal Bank of Canada",0.38
-BUD,"BLS Capital Fondsmaeglerselskab A/S",0.32
+BUD,"BLS Capital Fondsmaeglerselskab ",0.32
 BUD,"Dynamo Administracao de Recursos Ltda.",0.28
 BUD,"Dynamo Internacional Gestao De Recursos Ltda.",0.17
 BUD,"Arrowstreet Capital, Limited Partnership",0.14
@@ -9741,7 +9741,7 @@ BWEN,"Blackrock Inc.",1.73
 BWEN,"Dimensional Fund Advisors LP",1.25
 BWEN,"Millennium Management Llc",0.86
 BWEN,"Geode Capital Management, LLC",0.76
-BWEN,"U.S. Bancorp\DE\",0.61
+BWEN,"U.S. Bancorp(DE)",0.61
 BWEN,"Quinn Opportunity Partners, LLC",0.56
 BWFG,"Blackrock Inc.",3.73
 BWFG,"Vanguard Group, Inc. (The)",3.70
@@ -9898,7 +9898,7 @@ BYFC,"Bank of America Corporation",4.42
 BYFC,"Grace & White Inc /ny",3.23
 BYFC,"Ejf Capital Llc",3.17
 BYFC,"Bridgeway Capital Management, Inc.",1.11
-BYFC,"U.S. Bancorp\DE\",1.02
+BYFC,"U.S. Bancorp(DE)",1.02
 BYFC,"Geode Capital Management, LLC",0.98
 BYFC,"Renaissance Technologies, LLC",0.65
 BYFC,"Blackrock Inc.",0.22
@@ -10145,7 +10145,7 @@ CAE,"Royal Bank of Canada",2.99
 CAE,"FMR, LLC",2.59
 CAE,"Artisan Partners Limited Partnership",2.49
 CAE,"Invesco Ltd.",1.91
-CAE,"Bank of Montreal/Can/",1.68
+CAE,"Bank of Montreal(Can)",1.68
 CAF,"City of London Investment Management Co. Limited",30.22
 CAF,"Allspring Global Investments Holdings, LLC",20.85
 CAF,"Lazard Asset Management LLC",18.50
@@ -10271,7 +10271,7 @@ CANF,"Stifel Financial Corporation",0.04
 CANF,"Two Sigma Securities, LLC",0.04
 CANF,"UBS Group AG",0.03
 CANF,"Citigroup Inc.",0.02
-CANF,"National Bank of Canada/FI",0.02
+CANF,"National Bank of Canada-FI",0.02
 CANG,"Warburg Pincus LLC",25.94
 CANG,"Primavera Capital Management Ltd",5.04
 CANG,"Cetera Investment Advisers",0.11
@@ -10939,7 +10939,7 @@ CCV,"Bank of America Corporation",2.48
 CCV,"MMCAP International, Inc. SPC",2.40
 CCVI,"Empyrean Capital Partners, LP",8.01
 CCVI,"Magnetar Financial LLC",5.65
-CCVI,"Bank of Montreal/Can/",4.93
+CCVI,"Bank of Montreal(Can)",4.93
 CCVI,"Taconic Capital Advisors Lp",4.91
 CCVI,"Marshall Wace LLP",4.69
 CCVI,"Anson Funds Management LP",3.38
@@ -11595,7 +11595,7 @@ CGBD,"Muzinich & Co., Inc.",0.66
 CGBD,"Sumitomo Mitsui Trust Holdings, Inc.",0.66
 CGC,"ETF Managers Group, LLC",2.22
 CGC,"Vanguard Group, Inc. (The)",2.07
-CGC,"National Bank of Canada/FI",1.43
+CGC,"National Bank of Canada-FI",1.43
 CGC,"Morgan Stanley",0.77
 CGC,"Millennium Management Llc",0.62
 CGC,"Two Sigma Advisers, LP",0.58
@@ -11747,7 +11747,7 @@ CHEA,"Adage Capital Partners GP L.L.C.",7.83
 CHEA,"Polar Asset Management Partners Inc.",6.52
 CHEA,"Weiss Asset Management LP",6.52
 CHEA,"Calamos Advisors LLC",6.09
-CHEA,"Bank of Montreal/Can/",5.78
+CHEA,"Bank of Montreal(Can)",5.78
 CHEA,"Saba Capital Management, L.P.",5.47
 CHEA,"AQR Arbitrage LLC",3.92
 CHEA,"Mangrove Partners",3.91
@@ -12093,7 +12093,7 @@ CIGI,"Bloombergsen Inc.",3.66
 CIGI,"Vanguard Group, Inc. (The)",2.93
 CIGI,"Spruce House Investment Management LLC",2.40
 CIGI,"Renaissance Technologies, LLC",1.84
-CIGI,"Bank of Montreal/Can/",1.78
+CIGI,"Bank of Montreal(Can)",1.78
 CIGI,"Vulcan Value Partners, LLC",1.71
 CIH,"General Atlantic, L.P.",15.16
 CIH,"Davis Selected Advisers, LP",6.17
@@ -12579,7 +12579,7 @@ CLRB,"Morgan Stanley",0.16
 CLRC,"Glazer Capital LLC",9.56
 CLRC,"Hudson Bay Capital Management Lp",8.13
 CLRC,"Shaolin Capital Management LLC",7.20
-CLRC,"Bank of Montreal/Can/",5.63
+CLRC,"Bank of Montreal(Can)",5.63
 CLRC,"AQR Arbitrage LLC",5.00
 CLRC,"Saba Capital Management, L.P.",4.75
 CLRC,"Wolverine Asset Management, LLC",4.75
@@ -12702,13 +12702,13 @@ CLXT,"Northrock Partners, Llc",0.11
 CLXT,"Bridgeway Capital Management, Inc.",0.09
 CLXT,"State Street Corporation",0.08
 CM,"Royal Bank of Canada",8.34
-CM,"Bank of Montreal/Can/",5.04
+CM,"Bank of Montreal(Can)",5.04
 CM,"Vanguard Group, Inc. (The)",3.49
 CM,"Bank Of Nova Scotia /",3.03
 CM,"Toronto Dominion Bank",2.65
 CM,"TD Asset Management, Inc",2.37
 CM,"Capital World Investors",1.81
-CM,"National Bank of Canada/FI",1.61
+CM,"National Bank of Canada-FI",1.61
 CM,"Cibc World Markets, Inc.",1.48
 CM,"Mackenzie Financial Corporation",1.11
 CMA,"Vanguard Group, Inc. (The)",12.41
@@ -13102,7 +13102,7 @@ CNI,"Royal Bank of Canada",4.43
 CNI,"Vanguard Group, Inc. (The)",3.24
 CNI,"Massachusetts Financial Services Co.",3.22
 CNI,"Wellington Management Group, LLP",3.08
-CNI,"Bank of Montreal/Can/",2.29
+CNI,"Bank of Montreal(Can)",2.29
 CNI,"Bank Of New York Mellon Corporation",2.08
 CNI,"Caisse De Depot Et Placement Du Quebec",1.83
 CNI,"TD Asset Management, Inc",1.80
@@ -13191,7 +13191,7 @@ CNQ,"Capital Research Global Investors",7.69
 CNQ,"FMR, LLC",6.08
 CNQ,"Royal Bank of Canada",5.96
 CNQ,"Vanguard Group, Inc. (The)",3.66
-CNQ,"Bank of Montreal/Can/",2.31
+CNQ,"Bank of Montreal(Can)",2.31
 CNQ,"FIL LTD",2.23
 CNQ,"Canada Pension Plan Investment Board",1.87
 CNQ,"TD Asset Management, Inc",1.62
@@ -13635,7 +13635,7 @@ CORT,"Ingalls & Snyder",6.34
 CORT,"Federated Hermes, Inc.",5.16
 CORT,"Parallel Advisors, LLC",3.46
 CORT,"State Street Corporation",3.22
-CORT,"Novo Holdings A/S",3.09
+CORT,"Novo Holdings",3.09
 CORT,"Dimensional Fund Advisors LP",1.95
 CORT,"Boston Trust Walden Corporation",1.72
 COSM,"Morgan Stanley",0.02
@@ -13684,7 +13684,7 @@ CP,"WCM Investment Management, LLC",3.25
 CP,"FIL LTD",3.23
 CP,"Capital World Investors",2.51
 CP,"Egerton Capital (UK) LLP",2.19
-CP,"Bank of Montreal/Can/",2.07
+CP,"Bank of Montreal(Can)",2.07
 CPA,"Baillie Gifford and Company",14.92
 CPA,"Capital World Investors",11.61
 CPA,"Sprucegrove Investment Management Ltd",10.94
@@ -13738,14 +13738,14 @@ CPF,"Vanguard Group, Inc. (The)",11.43
 CPF,"State Street Corporation",4.43
 CPF,"Bank Of New York Mellon Corporation",3.91
 CPF,"Dimensional Fund Advisors LP",3.51
-CPF,"Cramer Rosenthal Mcglynn LLC/Adv",3.46
+CPF,"Cramer Rosenthal Mcglynn LLC-Adv",3.46
 CPF,"JP Morgan Chase & Company",3.17
 CPF,"Goldman Sachs Group Inc",2.63
 CPF,"Ameriprise Financial, Inc.",2.59
 CPF,"Nuveen Asset Management",2.11
 CPG,"Franklin Resources, Inc.",4.59
 CPG,"Vanguard Group, Inc. (The)",3.18
-CPG,"Bank of Montreal/Can/",2.30
+CPG,"Bank of Montreal(Can)",2.30
 CPG,"Acadian Asset Management. LLC",2.28
 CPG,"Millennium Management Llc",1.30
 CPG,"Dimensional Fund Advisors LP",1.29
@@ -14044,7 +14044,7 @@ CRDL,"MMCAP International, Inc. SPC",5.24
 CRDL,"AdvisorShares Investments, LLC",1.48
 CRDL,"Mirae Asset Global Investments Co., Ltd.",1.36
 CRDL,"Vident Investment Advisory, LLC",0.23
-CRDL,"Bank of Montreal/Can/",0.14
+CRDL,"Bank of Montreal(Can)",0.14
 CRDL,"Geode Capital Management, LLC",0.08
 CRDL,"Citadel Advisors Llc",0.07
 CRDL,"Marble Harbor Investment Counsel, LLC",0.06
@@ -14209,7 +14209,7 @@ CRMD,"Blackrock Inc.",1.53
 CRMD,"Millennium Management Llc",1.38
 CRMD,"Geode Capital Management, LLC",0.85
 CRMD,"Cresset Asset Management, LLC",0.80
-CRMD,"Bank of Montreal/Can/",0.69
+CRMD,"Bank of Montreal(Can)",0.69
 CRMD,"Spinnaker Capital LLC",0.42
 CRMD,"State Street Corporation",0.41
 CRMT,"Blackrock Inc.",15.49
@@ -15095,7 +15095,7 @@ CVII,"Millennium Management Llc",3.90
 CVII,"Marshall Wace LLP",3.66
 CVII,"HSBC Holdings Plc",3.26
 CVII,"AQR Arbitrage LLC",2.85
-CVII,"Bank of Montreal/Can/",2.83
+CVII,"Bank of Montreal(Can)",2.83
 CVII,"Anson Funds Management LP",2.62
 CVII,"Taconic Capital Advisors Lp",2.43
 CVLG,"Blackrock Inc.",11.39
@@ -15324,7 +15324,7 @@ CX,"RWC Asset Advisors (US) LLC",0.99
 CX,"Allspring Global Investments Holdings, LLC",0.73
 CX,"Dimensional Fund Advisors LP",0.64
 CXAC,"Saba Capital Management, L.P.",9.41
-CXAC,"Bank of Montreal/Can/",5.82
+CXAC,"Bank of Montreal(Can)",5.82
 CXAC,"Highbridge Capital Management, LLC.",5.13
 CXAC,"AQR Arbitrage LLC",4.86
 CXAC,"MMCAP International, Inc. SPC",3.65
@@ -15389,7 +15389,7 @@ CYAD,"Citadel Advisors Llc",0.07
 CYAD,"Wells Fargo & Company",0.06
 CYAD,"Susquehanna International Group, LLP",0.05
 CYAD,"UBS Group AG",0.03
-CYAD,"National Bank of Canada/FI",0.02
+CYAD,"National Bank of Canada-FI",0.02
 CYAD,"Advisor Group, Inc.",0.01
 CYAN,"Morgan Stanley",3.54
 CYAN,"Renaissance Technologies, LLC",3.17
@@ -15481,7 +15481,7 @@ CYRX,"Invesco Ltd.",3.16
 CYRX,"Macquarie Group Limited",2.83
 CYRX,"ClearBridge Investments, LLC",2.48
 CYRX,"New York State Common Retirement Fund",2.43
-CYT,"Novo Holdings A/S",11.12
+CYT,"Novo Holdings",11.12
 CYT,"FMR, LLC",9.84
 CYT,"Baker Brothers Advisors, LLC",7.46
 CYT,"OUP Management Co., LLC",6.94
@@ -15870,7 +15870,7 @@ DCBO,"Cat Rock Capital Management LP",14.81
 DCBO,"FIL LTD",6.11
 DCBO,"SQN Investors LP",1.89
 DCBO,"Federated Hermes, Inc.",1.67
-DCBO,"Bank of Montreal/Can/",1.58
+DCBO,"Bank of Montreal(Can)",1.58
 DCBO,"Brightlight Capital Management, LP",1.26
 DCBO,"Long Path Partners LP",1.06
 DCBO,"Credit Suisse AG",1.01
@@ -16309,7 +16309,7 @@ DHHC,"Citadel Advisors Llc",4.20
 DHHC,"Saba Capital Management, L.P.",4.09
 DHHC,"Mizuho Markets Americas, LLC",3.15
 DHHC,"Sculptor Capital Lp",3.03
-DHHC,"Bank of Montreal/Can/",2.70
+DHHC,"Bank of Montreal(Can)",2.70
 DHHCU,"TIG Advisors, LLC",0.93
 DHHCU,"HRT Financial LP",0.50
 DHHCU,"Magnetar Financial LLC",0.48
@@ -16980,7 +16980,7 @@ DOOO,"Beutel, Goodman & Company Ltd",9.21
 DOOO,"Invesco Ltd.",3.49
 DOOO,"Vanguard Group, Inc. (The)",3.34
 DOOO,"Westfield Capital Management Co LP",2.40
-DOOO,"Bank of Montreal/Can/",1.92
+DOOO,"Bank of Montreal(Can)",1.92
 DOOO,"Caisse De Depot Et Placement Du Quebec",1.52
 DOOO,"AllianceBernstein, L.P.",1.28
 DOOO,"Connor Clark & Lunn Investment Management Ltd",1.12
@@ -17141,7 +17141,7 @@ DRD,"Millennium Management Llc",0.25
 DRD,"U.S. Global Investors, Inc.",0.23
 DRD,"AQR Capital Management, LLC",0.22
 DRD,"Jane Street Group, LLC",0.18
-DRD,"National Bank of Canada/FI",0.16
+DRD,"National Bank of Canada-FI",0.16
 DRH,"Blackrock Inc.",18.62
 DRH,"Vanguard Group, Inc. (The)",17.53
 DRH,"State Street Corporation",6.40
@@ -17231,7 +17231,7 @@ DRTT,"Jarislowsky, Fraser Ltd",2.62
 DRTT,"Amundi",1.24
 DRTT,"SEI Investments Co",0.46
 DRTT,"RBF Capital, LLC",0.35
-DRTT,"Bank of Montreal/Can/",0.25
+DRTT,"Bank of Montreal(Can)",0.25
 DRUG,"AdvisorShares Investments, LLC",1.72
 DRUG,"Quattro Financial Advisors LLC",0.13
 DRUG,"Jane Street Group, LLC",0.12
@@ -17255,7 +17255,7 @@ DRVN,"Blackrock Inc.",1.21
 DSAQ,"Saba Capital Management, L.P.",9.74
 DSAQ,"Shaolin Capital Management LLC",5.61
 DSAQ,"Marshall Wace LLP",4.91
-DSAQ,"Bank of Montreal/Can/",4.57
+DSAQ,"Bank of Montreal(Can)",4.57
 DSAQ,"Fir Tree Capital Management Lp",4.54
 DSAQ,"Highbridge Capital Management, LLC.",4.45
 DSAQ,"Polar Asset Management Partners Inc.",4.35
@@ -17410,13 +17410,13 @@ DTE,"Neuberger Berman Group, LLC",1.18
 DTE,"Invesco Ltd.",1.12
 DTEA,"Susquehanna International Group, LLP",0.39
 DTEA,"Cohanzick Management, LLC",0.11
-DTEA,"Bank of Montreal/Can/",0.09
+DTEA,"Bank of Montreal(Can)",0.09
 DTEA,"First National Trust Company",0.08
 DTEA,"Schonfeld Strategic Advisors Llc",0.06
 DTEA,"Royal Bank of Canada",0.05
 DTEA,"Founders Financial Securities LLC",0.05
 DTEA,"Jane Street Group, LLC",0.04
-DTEA,"National Bank of Canada/FI",0.03
+DTEA,"National Bank of Canada-FI",0.03
 DTEA,"Simplex Trading, LLC",0.02
 DTF,"Karpus Management, Inc.",11.63
 DTF,"1607 Capital Partners, LLC",8.41
@@ -17588,7 +17588,7 @@ DWSN,"RBF Capital, LLC",1.90
 DWSN,"Vanguard Group, Inc. (The)",1.16
 DWSN,"Gabelli Funds, LLC",0.95
 DWSN,"Salem Investment Counselors, Inc.",0.86
-DWSN,"U.S. Bancorp\DE\",0.50
+DWSN,"U.S. Bancorp(DE)",0.50
 DWSN,"Pinnacle Associates, Ltd.",0.14
 DWSN,"Teton Advisors, Inc",0.10
 DWSN,"Blackrock Inc.",0.06
@@ -18091,7 +18091,7 @@ EDSA,"Dimensional Fund Advisors LP",0.09
 EDSA,"Millennium Management Llc",0.09
 EDSA,"Northern Trust Corporation",0.08
 EDSA,"Tower Research Capital LLC (TRC)",0.06
-EDSA,"National Bank of Canada/FI",0.04
+EDSA,"National Bank of Canada-FI",0.04
 EDTK,"Renaissance Technologies, LLC",1.09
 EDTK,"Virtu Financial LLC",0.73
 EDTK,"DGS Capital Management, LLC",0.38
@@ -18244,7 +18244,7 @@ EFX,"Morgan Stanley",3.83
 EFX,"State Street Corporation",3.77
 EFX,"FMR, LLC",3.62
 EFX,"JP Morgan Chase & Company",2.15
-EFXT,"Bank of Montreal/Can/",1.06
+EFXT,"Bank of Montreal(Can)",1.06
 EFXT,"TD Asset Management, Inc",0.92
 EFXT,"Swiss National Bank",0.23
 EFXT,"Russell Investments Group, Ltd.",0.14
@@ -18331,7 +18331,7 @@ EGLX,"Royce & Associates LP",0.49
 EGLX,"Bank of America Corporation",0.39
 EGLX,"Credit Suisse AG",0.35
 EGLX,"Goldman Sachs Group Inc",0.34
-EGLX,"Bank of Montreal/Can/",0.30
+EGLX,"Bank of Montreal(Can)",0.30
 EGLX,"Millennium Management Llc",0.23
 EGLX,"Cidel Asset Management, Inc.",0.15
 EGO,"Helikon Investments Ltd",12.65
@@ -18828,7 +18828,7 @@ EMX,"Sheaff Brock Investment Advisors, LLC",0.04
 EMX,"Bank of America Corporation",0.03
 ENB,"Royal Bank of Canada",7.91
 ENB,"Vanguard Group, Inc. (The)",3.62
-ENB,"Bank of Montreal/Can/",2.88
+ENB,"Bank of Montreal(Can)",2.88
 ENB,"GQG Partners LLC",2.78
 ENB,"Deutsche Bank Aktiengesellschaft",2.07
 ENB,"TD Asset Management, Inc",1.44
@@ -18862,7 +18862,7 @@ ENER,"Marshall Wace LLP",3.58
 ENER,"Shaolin Capital Management LLC",2.93
 ENER,"Bank of America Corporation",2.42
 ENER,"Barclays Plc",2.37
-ENER,"Bank of Montreal/Can/",2.14
+ENER,"Bank of Montreal(Can)",2.14
 ENFN,"ICONIQ Capital, LLC",20.35
 ENFN,"Dragoneer Investment Group, LLC",9.41
 ENFN,"HHLR Advisors, LTD",7.21
@@ -19119,7 +19119,7 @@ EOD,"Bank of America Corporation",0.52
 EOD,"Royal Bank of Canada",0.33
 EOD,"Invesco Ltd.",0.25
 EOD,"LPL Financial LLC",0.20
-EOD,"Bank of Montreal/Can/",0.14
+EOD,"Bank of Montreal(Can)",0.14
 EOG,"Vanguard Group, Inc. (The)",9.12
 EOG,"Blackrock Inc.",7.50
 EOG,"State Street Corporation",5.80
@@ -19545,7 +19545,7 @@ ERO,"683 Capital Management LLC",3.96
 ERO,"American Century Companies, Inc.",2.72
 ERO,"Jennison Associates LLC",2.59
 ERO,"Ninety One UK Ltd",2.42
-ERO,"Bank of Montreal/Can/",1.87
+ERO,"Bank of Montreal(Can)",1.87
 ERO,"Mirae Asset Global Investments Co., Ltd.",1.73
 ERO,"Impala Asset Management, LLC",1.08
 ERYP,"BVF Inc.",7.33
@@ -20301,7 +20301,7 @@ EWCZ,"American Century Companies, Inc.",3.01
 EWCZ,"Vanguard Group, Inc. (The)",2.87
 EWTX,"Orbimed Advisors LLC.",23.04
 EWTX,"FMR, LLC",12.62
-EWTX,"Novo Holdings A/S",9.61
+EWTX,"Novo Holdings",9.61
 EWTX,"Viking Global Investors, L.P.",6.98
 EWTX,"Deerfield Management Company, L.P. (Series C)",6.22
 EWTX,"EcoR1 Capital, LLC",5.53
@@ -20386,7 +20386,7 @@ EXK,"Jupiter Asset Management Limited",1.98
 EXK,"Dimensional Fund Advisors LP",0.33
 EXK,"Renaissance Technologies, LLC",0.33
 EXK,"Dz Bank Ag Deutsche Zentral Genossenschafts Bank, Frankfurt Am Main",0.32
-EXK,"Bank of Montreal/Can/",0.28
+EXK,"Bank of Montreal(Can)",0.28
 EXK,"CIBC Asset Management Inc.",0.25
 EXK,"TD Asset Management, Inc",0.25
 EXLS,"Blackrock Inc.",11.10
@@ -21395,7 +21395,7 @@ FICO,"Neuberger Berman Group, LLC",2.38
 FICO,"AKO Capital LLP",1.56
 FICO,"Geode Capital Management, LLC",1.49
 FICV,"Millennium Management Llc",4.80
-FICV,"Bank of Montreal/Can/",4.78
+FICV,"Bank of Montreal(Can)",4.78
 FICV,"Calamos Advisors LLC",4.00
 FICV,"AQR Arbitrage LLC",2.20
 FICV,"Magnetar Financial LLC",2.04
@@ -21581,7 +21581,7 @@ FLAG,"Driehaus Capital Management, LLC",3.48
 FLAG,"Polar Asset Management Partners Inc.",1.56
 FLAG,"First Trust Capital Management L.P.",1.39
 FLAG,"Woodline Partners LP",1.39
-FLAG,"Bank of Montreal/Can/",1.10
+FLAG,"Bank of Montreal(Can)",1.10
 FLAG,"683 Capital Management LLC",1.04
 FLAG,"Shaolin Capital Management LLC",0.70
 FLAG,"Logan Stone Capital, LLC",0.52
@@ -21996,7 +21996,7 @@ FNV,"Massachusetts Financial Services Co.",5.22
 FNV,"Van Eck Associates Corporation",4.77
 FNV,"FIL LTD",3.56
 FNV,"Vanguard Group, Inc. (The)",3.48
-FNV,"Bank of Montreal/Can/",2.38
+FNV,"Bank of Montreal(Can)",2.38
 FNV,"Renaissance Technologies, LLC",2.19
 FNV,"Royal Bank of Canada",2.03
 FNV,"Jarislowsky, Fraser Ltd",1.58
@@ -22685,7 +22685,7 @@ FSM,"Ruffer LLP",0.78
 FSM,"Citadel Advisors Llc",0.57
 FSNB,"Saba Capital Management, L.P.",6.92
 FSNB,"Aristeia Capital, LLC",6.27
-FSNB,"Bank of Montreal/Can/",6.24
+FSNB,"Bank of Montreal(Can)",6.24
 FSNB,"Marshall Wace LLP",4.83
 FSNB,"Fir Tree Capital Management Lp",4.02
 FSNB,"HSBC Holdings Plc",4.00
@@ -22806,7 +22806,7 @@ FTEK,"Vanguard Group, Inc. (The)",2.56
 FTEK,"Blackrock Inc.",1.59
 FTEK,"Essex Investment Management Co LLC",1.31
 FTEK,"Geode Capital Management, LLC",1.30
-FTEK,"U.S. Bancorp\DE\",1.01
+FTEK,"U.S. Bancorp(DE)",1.01
 FTEK,"Marquette Asset Management, Llc",0.42
 FTEK,"State Street Corporation",0.32
 FTEK,"Susquehanna International Group, LLP",0.20
@@ -22888,7 +22888,7 @@ FTNT,"Geode Capital Management, LLC",1.93
 FTNT,"Ameriprise Financial, Inc.",1.71
 FTNT,"FMR, LLC",1.03
 FTS,"Royal Bank of Canada",6.30
-FTS,"Bank of Montreal/Can/",4.68
+FTS,"Bank of Montreal(Can)",4.68
 FTS,"Vanguard Group, Inc. (The)",3.71
 FTS,"FIL LTD",2.86
 FTS,"GQG Partners LLC",2.39
@@ -22916,7 +22916,7 @@ FUBO,"Marshall Wace LLP",6.25
 FUBO,"Goldman Sachs Group Inc",5.83
 FUBO,"Builders Union Llp",5.01
 FUBO,"Northern Trust Corporation",4.23
-FUBO,"Bank of Montreal/Can/",4.07
+FUBO,"Bank of Montreal(Can)",4.07
 FUL,"Blackrock Inc.",16.60
 FUL,"Vanguard Group, Inc. (The)",11.73
 FUL,"State Street Corporation",6.97
@@ -22991,8 +22991,8 @@ FURY,"FMR, LLC",7.17
 FURY,"Ingalls & Snyder",1.56
 FURY,"Ashford Capital Management Inc.",1.11
 FURY,"Caisse De Depot Et Placement Du Quebec",0.66
-FURY,"National Bank of Canada/FI",0.10
-FURY,"Bank of Montreal/Can/",0.08
+FURY,"National Bank of Canada-FI",0.10
+FURY,"Bank of Montreal(Can)",0.08
 FURY,"Foresight Wealth Management, LLC",0.07
 FURY,"Renaissance Technologies, LLC",0.04
 FURY,"Scotia Capital Inc.",0.04
@@ -23427,7 +23427,7 @@ GBLI,"Cannell Capital LLC",0.74
 GBNH,"Masters Capital Management, LLC",2.38
 GBNH,"AdvisorShares Investments, LLC",0.40
 GBNH,"AWM Investment Company, Inc.",0.24
-GBNH,"Bank of Montreal/Can/",0.11
+GBNH,"Bank of Montreal(Can)",0.11
 GBNH,"UBS Group AG",0.06
 GBNH,"Geode Capital Management, LLC",0.05
 GBNH,"Harrison (K.J.) & Partners, Inc.",0.03
@@ -24172,7 +24172,7 @@ GIB,"Jarislowsky, Fraser Ltd",3.33
 GIB,"Royal Bank of Canada",3.27
 GIB,"Mackenzie Financial Corporation",2.39
 GIB,"Massachusetts Financial Services Co.",2.10
-GIB,"National Bank of Canada/FI",1.86
+GIB,"National Bank of Canada-FI",1.86
 GIB,"Fiera Capital Corporation",1.74
 GIB,"Manufacturers Life Insurance Co.",1.60
 GIC,"Mawer Investment Management Limited",4.73
@@ -24210,7 +24210,7 @@ GIII,"Dimensional Fund Advisors LP",7.02
 GIII,"State Street Corporation",3.50
 GIII,"Cooper Creek Partners Management LLC",2.97
 GIII,"Royal Bank of Canada",2.77
-GIII,"Cramer Rosenthal Mcglynn LLC/Adv",1.92
+GIII,"Cramer Rosenthal Mcglynn LLC-Adv",1.92
 GIII,"Charles Schwab Investment Management, Inc.",1.74
 GIII,"Geode Capital Management, LLC",1.73
 GIII,"Lsv Asset Management",1.62
@@ -24424,8 +24424,8 @@ GLOP,"Goldman Sachs Group Inc",0.40
 GLOP,"Mirae Asset Global Investments Co., Ltd.",0.37
 GLOP,"Two Sigma Investments, LP",0.37
 GLOP,"Simplex Trading, LLC",0.29
-GLOP-PA,"Corbyn Investment Management Inc/md",1.92
-GLOP-PB,"Corbyn Investment Management Inc/md",0.30
+GLOP-PA,"Corbyn Investment Management Inc(md)",1.92
+GLOP-PB,"Corbyn Investment Management Inc(md)",0.30
 GLP,"Invesco Ltd.",16.99
 GLP,"Pallas Capital Advisors Llc",4.13
 GLP,"Morgan Stanley",1.13
@@ -24530,7 +24530,7 @@ GLTA,"Periscope Capital Inc.",3.29
 GLTA,"Shaw D.E. & Co., Inc.",3.04
 GLTA,"Picton Mahoney Asset Management",2.24
 GLTO,"Orbimed Advisors LLC.",15.99
-GLTO,"Novo Holdings A/S",9.76
+GLTO,"Novo Holdings",9.76
 GLTO,"Cormorant Asset Management, LP",3.99
 GLTO,"MAI Capital Management",0.91
 GLTO,"Laurion Capital Management, LP",0.75
@@ -24819,7 +24819,7 @@ GNTX,"State Street Corporation",2.81
 GNTX,"Cooke & Bieler LP",2.37
 GNTX,"Beutel, Goodman & Company Ltd",2.19
 GNTX,"Disciplined Growth Investors, Inc.",2.07
-GNTX,"Maj Invest Holding A/S",2.04
+GNTX,"Maj Invest Holding ",2.04
 GNTX,"Boston Partners",1.93
 GNTY,"Blackrock Inc.",4.37
 GNTY,"Vanguard Group, Inc. (The)",3.33
@@ -24939,7 +24939,7 @@ GOLD,"Royal Bank of Canada",2.54
 GOLD,"First Eagle Investment Management, LLC",2.44
 GOLD,"Blackrock Inc.",2.17
 GOLD,"FIL LTD",1.94
-GOLD,"Bank of Montreal/Can/",1.46
+GOLD,"Bank of Montreal(Can)",1.46
 GOLD,"Capital World Investors",1.45
 GOLF,"Kayne Anderson Rudnick Investment Management LLC",11.29
 GOLF,"Vanguard Group, Inc. (The)",4.40
@@ -25356,7 +25356,7 @@ GROW,"Geode Capital Management, LLC",0.82
 GROW,"Toroso Investments, LLC",0.71
 GROY,"Van Eck Associates Corporation",3.93
 GROY,"Caisse De Depot Et Placement Du Quebec",1.58
-GROY,"Bank of Montreal/Can/",1.56
+GROY,"Bank of Montreal(Can)",1.56
 GROY,"Amundi",0.51
 GROY,"Sprott Inc.",0.46
 GROY,"Shell Asset Management Company",0.41
@@ -25397,7 +25397,7 @@ GRTS,"Blackrock Inc.",2.31
 GRTS,"Jacobs Levy Equity Management, Inc.",1.39
 GRTS,"Artal Group S.A.",0.90
 GRTX,"Sofinnova Investments, Inc.",10.82
-GRTX,"Novo Holdings A/S",8.63
+GRTX,"Novo Holdings",8.63
 GRTX,"Blackstone Inc",5.89
 GRTX,"Tekla Capital Management LLCC.",3.15
 GRTX,"Nan Fung Group Holdings Limited",2.15
@@ -25777,7 +25777,7 @@ GVA,"State Street Corporation",6.32
 GVA,"Dimensional Fund Advisors LP",6.07
 GVA,"Morgan Stanley",3.04
 GVA,"William Blair Investment Management, LLC",2.66
-GVA,"Bank of Montreal/Can/",2.58
+GVA,"Bank of Montreal(Can)",2.58
 GVA,"Bank Of New York Mellon Corporation",2.46
 GVP,"Needham Investment Management, L.L.C.",7.06
 GVP,"Renaissance Technologies, LLC",3.96
@@ -26420,7 +26420,7 @@ HEXO,"Susquehanna International Group, LLP",0.18
 HEXO,"Barclays Plc",0.09
 HEXO,"Morgan Stanley",0.06
 HEXO,"Jane Street Group, LLC",0.05
-HEXO,"Bank of Montreal/Can/",0.04
+HEXO,"Bank of Montreal(Can)",0.04
 HFBL,"Stilwell Value LLC",2.57
 HFBL,"Oppenheimer & Close, Inc.",1.89
 HFBL,"AllianceBernstein, L.P.",1.67
@@ -26527,7 +26527,7 @@ HHLA,"Marshall Wace LLP",5.58
 HHLA,"Millennium Management Llc",4.73
 HHLA,"HSBC Holdings Plc",4.00
 HHLA,"Athos Capital Ltd",3.90
-HHLA,"Bank of Montreal/Can/",3.74
+HHLA,"Bank of Montreal(Can)",3.74
 HHLA,"Hudson Bay Capital Management Lp",3.62
 HHLA,"Tairen Capital Ltd",3.62
 HHLA,"Saba Capital Management, L.P.",3.54
@@ -26658,7 +26658,7 @@ HITI,"Highbridge Capital Management, LLC.",0.24
 HITI,"Geode Capital Management, LLC",0.07
 HITI,"Simplex Trading, LLC",0.03
 HITI,"Creative Planning",0.02
-HITI,"Bank of Montreal/Can/",0.02
+HITI,"Bank of Montreal(Can)",0.02
 HIVE,"Invesco Ltd.",6.81
 HIVE,"Mirae Asset Global Investments Co., Ltd.",1.58
 HIVE,"Van Eck Associates Corporation",1.02
@@ -27718,7 +27718,7 @@ HUBS,"Capital World Investors",2.32
 HUBS,"Franklin Resources, Inc.",1.98
 HUBS,"State Street Corporation",1.95
 HUDI,"Invesco Ltd.",0.14
-HUDI,"Bank of Montreal/Can/",0.08
+HUDI,"Bank of Montreal(Can)",0.08
 HUGE,"AdvisorShares Investments, LLC",1.18
 HUGE,"Renaissance Technologies, LLC",0.16
 HUGE,"Susquehanna International Group, LLP",0.06
@@ -27798,7 +27798,7 @@ HUT,"Pinpoint Asset Management Limited",0.75
 HUT,"Van Eck Associates Corporation",0.68
 HUT,"Barclays Plc",0.62
 HUT,"Susquehanna International Group, LLP",0.53
-HUT,"Bank of Montreal/Can/",0.48
+HUT,"Bank of Montreal(Can)",0.48
 HUT,"State Street Corporation",0.29
 HUT,"Vident Investment Advisory, LLC",0.28
 HUT,"Geode Capital Management, LLC",0.26
@@ -28115,14 +28115,14 @@ IAUX,"Kite Lake Capital Management (UK) LLP",1.70
 IAUX,"Goldman Sachs Group Inc",1.69
 IAUX,"Franklin Resources, Inc.",1.52
 IAUX,"Euro Pacific Asset Management, LLC",1.34
-IAUX,"National Bank of Canada/FI",0.93
+IAUX,"National Bank of Canada-FI",0.93
 IAUX,"Toronto Dominion Bank",0.72
-IAUX,"Bank of Montreal/Can/",0.49
+IAUX,"Bank of Montreal(Can)",0.49
 IBA,"Renaissance Technologies, LLC",1.19
 IBA,"Harris (Everett) & Company",0.28
 IBA,"O'Shaughnessy Asset Management LLC",0.21
 IBA,"Morgan Stanley",0.14
-IBA,"U.S. Bancorp\DE\",0.14
+IBA,"U.S. Bancorp(DE)",0.14
 IBA,"First Wilshire Securities Management Inc",0.13
 IBA,"Dimensional Fund Advisors LP",0.10
 IBA,"Sprott Inc.",0.07
@@ -28898,7 +28898,7 @@ IMBI,"Castleknight Management LP",0.77
 IMBI,"D.A. Davidson & Co.",0.54
 IMCC,"Wasatch Advisors Inc",4.68
 IMCC,"AdvisorShares Investments, LLC",1.59
-IMCC,"Bank of Montreal/Can/",0.50
+IMCC,"Bank of Montreal(Can)",0.50
 IMCC,"Baader Bank Aktiengesellschaft",0.31
 IMCC,"Royal Bank of Canada",0.29
 IMCC,"ExodusPoint Capital Management, LP",0.20
@@ -28972,13 +28972,13 @@ IMMX,"State Street Corporation",0.31
 IMMX,"Renaissance Technologies, LLC",0.19
 IMMX,"Lynwood Capital Management Inc.",0.18
 IMMX,"Northern Trust Corporation",0.14
-IMMX,"Bank of Montreal/Can/",0.11
+IMMX,"Bank of Montreal(Can)",0.11
 IMMX,"InterOcean Capital Group, LLC",0.11
 IMMX,"UBS Group AG",0.03
 IMNM,"Prentice Capital Management, LP",6.53
 IMNM,"Alpine Global Management, LLC",5.92
 IMNM,"Vanguard Group, Inc. (The)",3.08
-IMNM,"Bank of Montreal/Can/",0.76
+IMNM,"Bank of Montreal(Can)",0.76
 IMNM,"Geode Capital Management, LLC",0.67
 IMNM,"Cerity Partners LLC",0.47
 IMNM,"Blackrock Inc.",0.34
@@ -29000,7 +29000,7 @@ IMO,"FMR, LLC",3.97
 IMO,"Royal Bank of Canada",1.75
 IMO,"Vanguard Group, Inc. (The)",1.16
 IMO,"Artisan Partners Limited Partnership",1.08
-IMO,"Bank of Montreal/Can/",0.96
+IMO,"Bank of Montreal(Can)",0.96
 IMO,"GQG Partners LLC",0.86
 IMO,"Price (T.Rowe) Associates Inc",0.40
 IMO,"Bank Of Nova Scotia /",0.38
@@ -29189,7 +29189,7 @@ INDI,"Primecap Management Company",2.35
 INDI,"Ameriprise Financial, Inc.",1.93
 INDO,"Susquehanna Fundamental Investments, LLC",0.41
 INDO,"Jane Street Group, LLC",0.35
-INDO,"Bank of Montreal/Can/",0.28
+INDO,"Bank of Montreal(Can)",0.28
 INDO,"Commonwealth Equity Services, LLC",0.22
 INDO,"Verition Fund Management, LLC",0.16
 INDO,"Xtx Topco Ltd",0.12
@@ -29619,7 +29619,7 @@ INZY,"NEA Management Company, LLC",6.05
 INZY,"Deerfield Management Company, L.P. (Series C)",5.18
 INZY,"CHI Advisors LLC",4.94
 INZY,"Vanguard Group, Inc. (The)",3.32
-IOBT,"Novo Holdings A/S",11.38
+IOBT,"Novo Holdings",11.38
 IOBT,"Vivo Capital, LLC",10.47
 IOBT,"PFM Health Sciences, LP",7.49
 IOBT,"Avoro Capital Advisors LLC",7.13
@@ -29708,7 +29708,7 @@ IP,"Charles Schwab Investment Management, Inc.",2.04
 IP,"Greenhaven Associates, Inc.",1.71
 IP,"Franklin Resources, Inc.",1.68
 IPA,"Ingalls & Snyder",3.89
-IPA,"Bank of Montreal/Can/",0.97
+IPA,"Bank of Montreal(Can)",0.97
 IPA,"Citadel Advisors Llc",0.25
 IPA,"Cibc World Markets, Inc.",0.19
 IPA,"Gradient Capital Advisors, LLC",0.11
@@ -29716,7 +29716,7 @@ IPA,"Dimensional Fund Advisors LP",0.10
 IPA,"Geode Capital Management, LLC",0.07
 IPA,"Susquehanna International Group, LLP",0.06
 IPA,"Wolverine Trading LLC",0.04
-IPA,"National Bank of Canada/FI",0.03
+IPA,"National Bank of Canada-FI",0.03
 IPAR,"Blackrock Inc.",8.56
 IPAR,"Vanguard Group, Inc. (The)",6.51
 IPAR,"Dimensional Fund Advisors LP",2.78
@@ -30268,7 +30268,7 @@ ITUB,"Schroder Investment Management Group",2.11
 ITUB,"Goldman Sachs Group Inc",1.32
 ITUB,"Westwood Global Investments, LLC",1.16
 ITUB,"Pendal Group Ltd",1.07
-ITUB,"National Bank of Canada/FI",1.00
+ITUB,"National Bank of Canada-FI",1.00
 ITUB,"Franklin Resources, Inc.",0.64
 ITUB,"Robeco Institutional Asset Management B.V.",0.61
 ITUB,"Blackrock Inc.",0.58
@@ -31212,7 +31212,7 @@ JWSM,"Third Point, LLC",3.86
 JWSM,"Millennium Management Llc",3.59
 JWSM,"HSBC Holdings Plc",3.58
 JWSM,"Empyrean Capital Partners, LP",3.22
-JWSM,"Bank of Montreal/Can/",3.22
+JWSM,"Bank of Montreal(Can)",3.22
 JWSM,"Fir Tree Capital Management Lp",2.88
 JWSM,"Bank of America Corporation",2.66
 JXJT,"Renaissance Technologies, LLC",1.90
@@ -31315,7 +31315,7 @@ KAMN,"Gamco Investors Inc",8.13
 KAMN,"State Street Corporation",5.68
 KAMN,"Dimensional Fund Advisors LP",4.99
 KAMN,"Cardinal Capital Management LLC",4.66
-KAMN,"Cramer Rosenthal Mcglynn LLC/Adv",4.03
+KAMN,"Cramer Rosenthal Mcglynn LLC-Adv",4.03
 KAMN,"Deprince, Race & Zollo, Inc.",3.42
 KAMN,"Gabelli Funds, LLC",3.11
 KAMN,"Geode Capital Management, LLC",1.77
@@ -31412,7 +31412,7 @@ KC,"State Street Corporation",0.45
 KCGI,"Highbridge Capital Management, LLC.",9.17
 KCGI,"Adage Capital Partners GP L.L.C.",5.26
 KCGI,"Dryden Capital, LLC",5.22
-KCGI,"Bank of Montreal/Can/",5.16
+KCGI,"Bank of Montreal(Can)",5.16
 KCGI,"Saba Capital Management, L.P.",4.28
 KCGI,"Polar Asset Management Partners Inc.",4.08
 KCGI,"Weiss Asset Management LP",3.76
@@ -31687,10 +31687,10 @@ KIQ,"Susquehanna International Group, LLP",0.03
 KIQ,"Two Sigma Investments, LP",0.03
 KIQ,"Two Sigma Securities, LLC",0.03
 KIQ,"Millennium Management Llc",0.02
-KIQ,"National Bank of Canada/FI",0.01
+KIQ,"National Bank of Canada-FI",0.01
 KIRK,"Osmium Partners, LLC",13.13
 KIRK,"Vanguard Group, Inc. (The)",5.22
-KIRK,"U.S. Bancorp\DE\",2.43
+KIRK,"U.S. Bancorp(DE)",2.43
 KIRK,"Peak6 Investments, L.P.",1.68
 KIRK,"Federated Hermes, Inc.",1.66
 KIRK,"Blackrock Inc.",1.11
@@ -32398,7 +32398,7 @@ KVSA,"Aristeia Capital, LLC",3.16
 KVSA,"Millennium Management Llc",3.06
 KVSA,"MMCAP International, Inc. SPC",2.21
 KVSC,"Citadel Advisors Llc",6.29
-KVSC,"Bank of Montreal/Can/",4.94
+KVSC,"Bank of Montreal(Can)",4.94
 KVSC,"Farallon Capital Management Llc",4.86
 KVSC,"Millennium Management Llc",4.80
 KVSC,"Marshall Wace LLP",4.70
@@ -33030,14 +33030,14 @@ LEU,"Price (T.Rowe) Associates Inc",1.28
 LEU,"Dimensional Fund Advisors LP",1.20
 LEU,"Invesco Ltd.",1.13
 LEV,"Invesco Ltd.",2.33
-LEV,"National Bank of Canada/FI",0.79
+LEV,"National Bank of Canada-FI",0.79
 LEV,"First Trust Advisors LP",0.54
 LEV,"Ionic Capital Management Llc",0.43
 LEV,"Renaissance Technologies, LLC",0.39
 LEV,"Marshall Wace LLP",0.35
 LEV,"Alberta Investment Managament Corp",0.27
 LEV,"Alps Advisors Inc.",0.27
-LEV,"Bank of Montreal/Can/",0.23
+LEV,"Bank of Montreal(Can)",0.23
 LEV,"Richelieu Gestion Plc",0.22
 LEVI,"Vanguard Group, Inc. (The)",8.13
 LEVI,"Wellington Management Group, LLP",8.06
@@ -33591,7 +33591,7 @@ LMAT,"Ranger Investment Management, L.p.",4.19
 LMAT,"Geneva Capital Management LLC",4.06
 LMAT,"State Street Corporation",3.23
 LMAT,"Dimensional Fund Advisors LP",3.07
-LMAT,"Cramer Rosenthal Mcglynn LLC/Adv",2.00
+LMAT,"Cramer Rosenthal Mcglynn LLC-Adv",2.00
 LMAT,"Geode Capital Management, LLC",1.79
 LMB,"Royce & Associates LP",11.47
 LMB,"Polar Asset Management Partners Inc.",9.88
@@ -33619,7 +33619,7 @@ LMFA,"Renaissance Technologies, LLC",1.32
 LMFA,"International Assets Investment Management, LLC",0.59
 LMFA,"Susquehanna International Group, LLP",0.37
 LMFA,"State Street Corporation",0.19
-LMFA,"National Bank of Canada/FI",0.14
+LMFA,"National Bank of Canada-FI",0.14
 LMFA,"UBS Group AG",0.14
 LMFA,"Northern Trust Corporation",0.11
 LMFA,"Simplex Trading, LLC",0.04
@@ -33633,7 +33633,7 @@ LMND,"Morgan Stanley",1.26
 LMND,"General Catalyst Group Management, LLC",1.17
 LMND,"Geode Capital Management, LLC",1.17
 LMND,"Northern Trust Corporation",0.60
-LMNL,"National Bank of Canada/FI",0.03
+LMNL,"National Bank of Canada-FI",0.03
 LMNL,"Renaissance Technologies, LLC",0.02
 LMNL,"Geode Capital Management, LLC",0.01
 LMNL,"Royal Bank of Canada",0.01
@@ -33679,7 +33679,7 @@ LNC,"Invesco Ltd.",1.91
 LNC,"Dimensional Fund Advisors LP",1.83
 LND,"Grace & White Inc /ny",0.51
 LND,"Renaissance Technologies, LLC",0.11
-LND,"U.S. Bancorp\DE\",0.10
+LND,"U.S. Bancorp(DE)",0.10
 LND,"Blackrock Inc.",0.06
 LND,"Marshall Wace LLP",0.04
 LND,"Commonwealth Equity Services, LLC",0.03
@@ -34115,7 +34115,7 @@ LSPD,"Royal Bank of Canada",2.75
 LSPD,"Wellington Management Group, LLP",2.00
 LSPD,"Artisan Partners Limited Partnership",1.94
 LSPD,"JP Morgan Chase & Company",1.68
-LSPD,"Bank of Montreal/Can/",1.31
+LSPD,"Bank of Montreal(Can)",1.31
 LSPD,"Westfield Capital Management Co LP",1.09
 LSTA,"Vanguard Group, Inc. (The)",2.24
 LSTA,"Renaissance Technologies, LLC",1.28
@@ -34398,13 +34398,13 @@ LVS,"Nuveen Asset Management",1.19
 LVS,"Barrow, Hanley Mewhinney & Strauss, LLC",1.10
 LVS,"Bank Of New York Mellon Corporation",0.97
 LVS,"Wellington Management Group, LLP",0.89
-LVTX,"Novo Holdings A/S",12.91
+LVTX,"Novo Holdings",12.91
 LVTX,"Redmile Group, LLC",10.93
 LVTX,"SilverArc Capital Management, LLC",2.37
 LVTX,"AXA S.A.",0.89
 LVTX,"Artal Group S.A.",0.78
 LVTX,"Alpha Wave Global, LP",0.47
-LVTX,"Bank of Montreal/Can/",0.35
+LVTX,"Bank of Montreal(Can)",0.35
 LVTX,"UBS OConnor LLC",0.29
 LVTX,"Millennium Management Llc",0.15
 LVTX,"Cannell Capital LLC",0.07
@@ -34962,7 +34962,7 @@ MBLY,"Raymond James & Associates, Inc.",0.21
 MBLY,"Stephens Inc. (Stephens Capital Management)",0.16
 MBLY,"TD Asset Management, Inc",0.14
 MBLY,"Stephens Investment Management Group",0.10
-MBLY,"Bank of Montreal/Can/",0.06
+MBLY,"Bank of Montreal(Can)",0.06
 MBLY,"AlphaCentric Advisors LLC",0.05
 MBLY,"Sigma Planning Corp",0.05
 MBNKP,"Uniplan Investment Counsel, Inc.",5.19
@@ -35518,7 +35518,7 @@ MEOH,"Standard Investments LLC",3.16
 MEOH,"Vanguard Group, Inc. (The)",2.82
 MEOH,"Royal Bank of Canada",2.45
 MEOH,"Acadian Asset Management. LLC",2.24
-MEOH,"Bank of Montreal/Can/",1.26
+MEOH,"Bank of Montreal(Can)",1.26
 MEOH,"Balyasny Asset Management LLC",1.24
 MERC,"IAT Reinsurance Co Ltd",24.91
 MERC,"Blackrock Inc.",7.51
@@ -35614,9 +35614,9 @@ MFA-PB,"Fidelity Strategic Real Return Fund",0.23
 MFA-PB,"ETFis Ser Tr I-InfraCap REIT Preferred ETF",0.22
 MFC,"Royal Bank of Canada",9.11
 MFC,"Vanguard Group, Inc. (The)",3.67
-MFC,"Bank of Montreal/Can/",3.46
+MFC,"Bank of Montreal(Can)",3.46
 MFC,"Mackenzie Financial Corporation",1.78
-MFC,"National Bank of Canada/FI",1.61
+MFC,"National Bank of Canada-FI",1.61
 MFC,"Cibc World Markets, Inc.",1.56
 MFC,"TD Asset Management, Inc",1.56
 MFC,"Bank Of Nova Scotia /",1.53
@@ -35640,14 +35640,14 @@ MFG,"Crossmark Global Holdings, Inc.",0.03
 MFG,"FMR, LLC",0.02
 MFG,"American Century Companies, Inc.",0.01
 MFG,"Renaissance Technologies, LLC",0.01
-MFG,"U.S. Bancorp\DE\",0.01
+MFG,"U.S. Bancorp(DE)",0.01
 MFG,"Envestnet Asset Management",0.01
 MFH,"Citadel Advisors Llc",0.10
 MFH,"Oppenheimer & Company Inc.",0.09
 MFH,"Geode Capital Management, LLC",0.08
 MFH,"Susquehanna International Group, LLP",0.08
 MFH,"Group One Trading, L.P.",0.04
-MFH,"National Bank of Canada/FI",0.01
+MFH,"National Bank of Canada-FI",0.01
 MFH,"UBS Group AG",0.01
 MFIC,"Thornburg Investment Management Inc.",4.49
 MFIC,"Apollo Management Holdings, L.P.",4.00
@@ -36018,7 +36018,7 @@ MIRM,"Deerfield Management Company, L.P. (Series C)",5.51
 MIRM,"Rivervest Venture Management LLC",5.21
 MIRM,"Rock Springs Capital Management, LP",4.87
 MIRM,"Blackrock Inc.",4.74
-MIRM,"Novo Holdings A/S",4.57
+MIRM,"Novo Holdings",4.57
 MIRM,"Franklin Resources, Inc.",4.17
 MIRM,"Cadian Capital Management, LP",3.70
 MIRM,"Eventide Asset Management LLC",3.46
@@ -36035,7 +36035,7 @@ MIRO,"Merit Financial Group, LLC",0.29
 MIST,"RTW Investments LP",12.59
 MIST,"VR Adviser, LLC",7.08
 MIST,"RA Capital Management, L.P.",6.55
-MIST,"Novo Holdings A/S",5.83
+MIST,"Novo Holdings",5.83
 MIST,"Lion Point Capital, LP",4.54
 MIST,"Morgan Stanley",3.62
 MIST,"Millennium Management Llc",2.72
@@ -36045,7 +36045,7 @@ MIST,"Great Point Partners LLC",1.97
 MITA,"Polar Asset Management Partners Inc.",9.99
 MITA,"Magnetar Financial LLC",9.83
 MITA,"Millennium Management Llc",4.76
-MITA,"Bank of Montreal/Can/",4.59
+MITA,"Bank of Montreal(Can)",4.59
 MITA,"Jefferies Group LLC",4.40
 MITA,"AQR Arbitrage LLC",3.76
 MITA,"Calamos Advisors LLC",3.33
@@ -36469,7 +36469,7 @@ MNDY,"1832 Asset Management L.P.",1.37
 MNDY,"ArrowMark Colorado Holdings LLC",1.33
 MNDY,"Salesforce, Inc.",1.08
 MNDY,"Zoom Video Communications, Inc.",1.08
-MNK,"Bank of Montreal/Can/",2.00
+MNK,"Bank of Montreal(Can)",2.00
 MNK,"Calamos Advisors LLC",0.43
 MNK,"Cowen and Company, LLC",0.31
 MNK,"South Dakota Investment Council",0.13
@@ -36641,7 +36641,7 @@ MOBV,"Hudson Bay Capital Management Lp",3.80
 MOBV,"Boothbay Fund Management, LLC",3.70
 MOBV,"Sage Rock Capital Management LP",3.65
 MOBV,"MMCAP International, Inc. SPC",3.05
-MOBV,"Bank of Montreal/Can/",2.54
+MOBV,"Bank of Montreal(Can)",2.54
 MOBV,"Two Sigma Investments, LP",2.04
 MOBV,"Aristeia Capital, LLC",1.88
 MOD,"Frontier Capital Management Company LLC",7.73
@@ -36708,7 +36708,7 @@ MOGO,"Toroso Investments, LLC",6.65
 MOGO,"Mariner, LLC",1.54
 MOGO,"Anson Funds Management LP",1.19
 MOGO,"Garnet  Equity Capital Holdings, Inc.",1.10
-MOGO,"National Bank of Canada/FI",0.93
+MOGO,"National Bank of Canada-FI",0.93
 MOGO,"ARS Investment Partners, LLC",0.83
 MOGO,"Point72 Asset Management, L.P.",0.78
 MOGO,"Fortress Investment Group LLC",0.77
@@ -37289,7 +37289,7 @@ MSD,"Royal Bank of Canada",1.37
 MSDA,"Nitorum Capital, L.P.",5.22
 MSDA,"Naya Capital Management Uk Ltd",4.35
 MSDA,"Millennium Management Llc",4.32
-MSDA,"Bank of Montreal/Can/",4.23
+MSDA,"Bank of Montreal(Can)",4.23
 MSDA,"Citadel Advisors Llc",3.89
 MSDA,"Guggenheim Capital, LLC",3.77
 MSDA,"Kensico Capital Management Corp",3.72
@@ -37580,7 +37580,7 @@ MTR,"UBS Group AG",0.27
 MTR,"JTC Employer Solutions Trusteee Ltd",0.11
 MTR,"Tower Research Capital LLC (TRC)",0.03
 MTR,"BNP Paribas Arbitrage, SNC",0.02
-MTR,"U.S. Bancorp\DE\",0.01
+MTR,"U.S. Bancorp(DE)",0.01
 MTRN,"Blackrock Inc.",15.86
 MTRN,"Vanguard Group, Inc. (The)",11.26
 MTRN,"Dimensional Fund Advisors LP",6.32
@@ -38063,7 +38063,7 @@ NAAS,"Renaissance Technologies, LLC",0.17
 NAAS,"Geode Capital Management, LLC",0.04
 NAAS,"Bank of America Corporation",0.03
 NAAS,"Blackrock Inc.",0.01
-NAAS,"U.S. Bancorp\DE\",0.01
+NAAS,"U.S. Bancorp(DE)",0.01
 NAAS,"UBS Group AG",0.01
 NABL,"Silver Lake Group, LLC",34.02
 NABL,"Thoma Bravo, LP",27.72
@@ -38689,7 +38689,7 @@ NEPT,"Citadel Advisors Llc",0.24
 NEPT,"Two Sigma Securities, LLC",0.24
 NEPT,"Goldman Sachs Group Inc",0.16
 NEPT,"Royal Bank of Canada",0.04
-NERV,"Novo Holdings A/S",34.88
+NERV,"Novo Holdings",34.88
 NERV,"Federated Hermes, Inc.",22.49
 NERV,"Artal Group S.A.",4.68
 NERV,"Vanguard Group, Inc. (The)",3.06
@@ -38752,7 +38752,7 @@ NEU,"Dimensional Fund Advisors LP",1.19
 NEWP,"Van Eck Associates Corporation",3.02
 NEWP,"Jupiter Asset Management Limited",2.94
 NEWP,"Mirae Asset Global Investments Co., Ltd.",1.53
-NEWP,"Bank of Montreal/Can/",1.21
+NEWP,"Bank of Montreal(Can)",1.21
 NEWP,"Gilder, Gagnon, Howe & Co.",1.08
 NEWP,"FMR, LLC",0.96
 NEWP,"ETF Managers Group, LLC",0.50
@@ -39393,7 +39393,7 @@ NMG,"Van Eck Associates Corporation",0.81
 NMG,"Williams Jones Wealth Management, LLC.",0.48
 NMG,"Russell Investments Group, Ltd.",0.33
 NMG,"Manufacturers Life Insurance Co.",0.20
-NMG,"National Bank of Canada/FI",0.16
+NMG,"National Bank of Canada-FI",0.16
 NMI,"1607 Capital Partners, LLC",6.94
 NMI,"Kaizen Financial Strategies",1.42
 NMI,"Hennion & Walsh Asset Management, Inc.",0.88
@@ -39599,8 +39599,8 @@ NOA,"Claret Asset Management Corp",7.80
 NOA,"Polar Asset Management Partners Inc.",7.42
 NOA,"Alberta Investment Managament Corp",4.04
 NOA,"Mackenzie Financial Corporation",3.65
-NOA,"Bank of Montreal/Can/",3.65
-NOA,"National Bank of Canada/FI",2.93
+NOA,"Bank of Montreal(Can)",3.65
+NOA,"National Bank of Canada-FI",2.93
 NOA,"Renaissance Technologies, LLC",2.02
 NOA,"Fiera Capital Corporation",1.53
 NOA,"Cumberland Partners Ltd.",1.45
@@ -40241,7 +40241,7 @@ NTR,"Price (T.Rowe) Associates Inc",3.97
 NTR,"Vanguard Group, Inc. (The)",3.60
 NTR,"Capital International Investors",2.52
 NTR,"FIL LTD",2.52
-NTR,"Bank of Montreal/Can/",2.40
+NTR,"Bank of Montreal(Can)",2.40
 NTR,"Deutsche Bank Aktiengesellschaft",2.39
 NTR,"Bank of America Corporation",2.24
 NTR,"Mackenzie Financial Corporation",2.10
@@ -40979,7 +40979,7 @@ NYCB-PU,"Advent Capital Management/DE",7.02
 NYCB-PU,"Thrivent Financial For Lutherans",5.10
 NYCB-PU,"Cutler Capital Management, LLC",3.74
 NYCB-PU,"Federated Investors, Inc.",2.95
-NYCB-PU,"Bank of Montreal/Can/",2.46
+NYCB-PU,"Bank of Montreal(Can)",2.46
 NYCB-PU,"SSI Investment Management Inc.",1.80
 NYCB-PU,"Bank of America Corporation",1.68
 NYCB-PU,"Gabelli Funds, LLC",1.46
@@ -41077,7 +41077,7 @@ OB,"S SQUARED TECHNOLOGY CORP.",1.06
 OBE,"Acadian Asset Management. LLC",2.68
 OBE,"Arrowstreet Capital, Limited Partnership",1.69
 OBE,"Hillsdale Investment Management Inc.",1.28
-OBE,"National Bank of Canada/FI",0.60
+OBE,"National Bank of Canada-FI",0.60
 OBE,"Morgan Stanley",0.59
 OBE,"Intact Investment Management, Inc.",0.54
 OBE,"Two Sigma Investments, LP",0.44
@@ -41399,7 +41399,7 @@ OGI,"ETF Managers Group, LLC",4.29
 OGI,"Shaw D.E. & Co., Inc.",0.78
 OGI,"Mirae Asset Global Investments Co., Ltd.",0.76
 OGI,"Merlin Capital LLC",0.69
-OGI,"Bank of Montreal/Can/",0.60
+OGI,"Bank of Montreal(Can)",0.60
 OGI,"Intact Investment Management, Inc.",0.36
 OGI,"AdvisorShares Investments, LLC",0.35
 OGI,"Dimensional Fund Advisors LP",0.32
@@ -41794,7 +41794,7 @@ ONCY,"Cibc World Markets, Inc.",0.10
 ONCY,"Royal Bank of Canada",0.08
 ONCY,"Long Focus Capital Management, LLC",0.07
 ONCY,"Geode Capital Management, LLC",0.06
-ONCY,"Bank of Montreal/Can/",0.06
+ONCY,"Bank of Montreal(Can)",0.06
 ONCY,"Dimensional Fund Advisors LP",0.05
 ONCY,"Renaissance Technologies, LLC",0.04
 ONCY,"Lynwood Capital Management Inc.",0.04
@@ -41973,7 +41973,7 @@ OPEN,"Ggv Capital Llc",3.06
 OPEN,"D1 Capital Partners, LP",2.58
 OPEN,"Deutsche Bank Aktiengesellschaft",2.14
 OPEN,"Altimeter Capital Management, LP",2.06
-OPEN,"National Bank of Canada/FI",2.04
+OPEN,"National Bank of Canada-FI",2.04
 OPEN,"Morgan Stanley",1.80
 OPFI,"Elgethun Capital Management",5.05
 OPFI,"Blackrock Inc.",4.42
@@ -42237,7 +42237,7 @@ ORLA,"Sun Valley Gold LLC",2.26
 ORLA,"First Eagle Investment Management, LLC",2.21
 ORLA,"Royal Bank of Canada",2.00
 ORLA,"Invesco Ltd.",1.73
-ORLA,"Bank of Montreal/Can/",1.22
+ORLA,"Bank of Montreal(Can)",1.22
 ORLY,"Vanguard Group, Inc. (The)",8.29
 ORLY,"Blackrock Inc.",7.03
 ORLY,"State Street Corporation",4.08
@@ -42429,7 +42429,7 @@ OTEX,"Vanguard Group, Inc. (The)",3.50
 OTEX,"Beutel, Goodman & Company Ltd",3.39
 OTEX,"Cooke & Bieler LP",2.06
 OTEX,"Franklin Resources, Inc.",1.57
-OTEX,"Bank of Montreal/Can/",1.57
+OTEX,"Bank of Montreal(Can)",1.57
 OTIS,"Vanguard Group, Inc. (The)",9.57
 OTIS,"Blackrock Inc.",8.44
 OTIS,"State Street Corporation",3.85
@@ -43006,7 +43006,7 @@ PB,"Brown Advisory  Inc.",2.80
 PB,"Morgan Stanley",2.62
 PB,"Neuberger Berman Group, LLC",2.32
 PBA,"Royal Bank of Canada",7.27
-PBA,"Bank of Montreal/Can/",3.81
+PBA,"Bank of Montreal(Can)",3.81
 PBA,"Vanguard Group, Inc. (The)",3.68
 PBA,"FIL LTD",2.96
 PBA,"Deutsche Bank Aktiengesellschaft",2.93
@@ -43443,11 +43443,11 @@ PDO,"Artemis Wealth Advisors, LLC",0.55
 PDS,"FMR, LLC",4.94
 PDS,"FIL LTD",4.91
 PDS,"Encompass Capital Advisors, LLC",4.42
-PDS,"National Bank of Canada/FI",4.04
+PDS,"National Bank of Canada-FI",4.04
 PDS,"Connor Clark & Lunn Investment Management Ltd",3.20
 PDS,"Driehaus Capital Management, LLC",3.18
 PDS,"Acadian Asset Management. LLC",2.98
-PDS,"Bank of Montreal/Can/",2.56
+PDS,"Bank of Montreal(Can)",2.56
 PDS,"Arrowstreet Capital, Limited Partnership",1.59
 PDS,"Hillsdale Investment Management Inc.",1.58
 PDSB,"Vanguard Group, Inc. (The)",4.08
@@ -43931,7 +43931,7 @@ PFTAU,"Magnetar Financial LLC",2.14
 PFTAU,"AQR Arbitrage LLC",0.50
 PFTAU,"Meteora Capital, LLC",0.40
 PFTAU,"III Capital Management",0.35
-PFTAU,"National Bank of Canada/FI",0.34
+PFTAU,"National Bank of Canada-FI",0.34
 PFTAU,"HRT Financial LP",0.22
 PFTAU,"Royal Bank of Canada",0.10
 PFX,"Northwestern Mutual Wealth Management Company",8.25
@@ -44193,7 +44193,7 @@ PHVS,"Viking Global Investors, L.P.",9.75
 PHVS,"Bain Capital Life Sciences Investors, LLC",9.59
 PHVS,"General Atlantic, L.P.",7.30
 PHVS,"venBio Partners LLC",6.93
-PHVS,"Novo Holdings A/S",3.58
+PHVS,"Novo Holdings",3.58
 PHVS,"Cormorant Asset Management, LP",2.46
 PHVS,"5AM Venture Management, LLC",1.77
 PHVS,"Soleus Capital Management, L.P.",0.94
@@ -44511,7 +44511,7 @@ PLM,"Northern Trust Corporation",0.18
 PLM,"Vanguard Group, Inc. (The)",0.12
 PLM,"Elkhorn Partners Limited Partnership",0.12
 PLM,"Highmark Wealth Management LLC",0.08
-PLM,"U.S. Bancorp\DE\",0.08
+PLM,"U.S. Bancorp(DE)",0.08
 PLM,"Two Sigma Advisers, LP",0.07
 PLMI,"Glazer Capital LLC",9.73
 PLMI,"Millennium Management Llc",6.99
@@ -44964,7 +44964,7 @@ PNTM,"Aristeia Capital, LLC",4.47
 PNTM,"HSBC Holdings Plc",3.41
 PNTM,"Nomura Holdings Inc.",3.05
 PNTM,"Polar Asset Management Partners Inc.",3.04
-PNTM,"Bank of Montreal/Can/",2.75
+PNTM,"Bank of Montreal(Can)",2.75
 PNTM,"Fir Tree Capital Management Lp",2.48
 PNW,"Vanguard Group, Inc. (The)",12.29
 PNW,"Blackrock Inc.",8.73
@@ -45003,7 +45003,7 @@ POET,"Brandywine Oak Private Wealth LLC",0.30
 POET,"JP Morgan Chase & Company",0.11
 POET,"Scotia Capital Inc.",0.07
 POET,"Royal Bank of Canada",0.06
-POET,"National Bank of Canada/FI",0.01
+POET,"National Bank of Canada-FI",0.01
 POET,"UBS Group AG",0.01
 POL,"Vanguard Group, Inc. (The)",4.82
 POL,"Morgan Dempsey Capital Management Llc",3.56
@@ -45455,7 +45455,7 @@ PROC,"United Maritime Capital, LLC",0.01
 PROF,"Gagnon Securities, LLC",8.52
 PROF,"Letko, Brosseau & Associates Inc.",6.01
 PROF,"FIL LTD",5.29
-PROF,"National Bank of Canada/FI",4.31
+PROF,"National Bank of Canada-FI",4.31
 PROF,"Deerfield Management Company, L.P. (Series C)",3.51
 PROF,"Gagnon Advisors, LLC",3.11
 PROF,"Timelo Investment Management Inc.",3.06
@@ -45600,7 +45600,7 @@ PRTG,"Pathstone Family Office, LLC",0.06
 PRTG,"Barclays Plc",0.03
 PRTG,"Morgan Stanley",0.02
 PRTG,"Royal Bank of Canada",0.01
-PRTG,"National Bank of Canada/FI",0.01
+PRTG,"National Bank of Canada-FI",0.01
 PRTH,"Stone Point Capital Llc",6.83
 PRTH,"Times Square Capital Management, LLC",1.91
 PRTH,"Blackrock Inc.",0.81
@@ -45993,7 +45993,7 @@ PTWO,"Polar Asset Management Partners Inc.",8.50
 PTWO,"Shaolin Capital Management LLC",5.54
 PTWO,"ATW Spac Management LLC",4.06
 PTWO,"Boothbay Fund Management, LLC",3.76
-PTWO,"Bank of Montreal/Can/",3.49
+PTWO,"Bank of Montreal(Can)",3.49
 PTWO,"Context Capital Management, LLC",3.49
 PTWO,"Hudson Bay Capital Management Lp",3.44
 PTWO,"Wolverine Asset Management, LLC",3.30
@@ -46048,7 +46048,7 @@ PUK,"Goldman Sachs Group Inc",0.11
 PUK,"Causeway Capital Management LLC",0.09
 PUK,"Northern Trust Corporation",0.09
 PUK,"Bank Of New York Mellon Corporation",0.07
-PUK,"Bank of Montreal/Can/",0.06
+PUK,"Bank of Montreal(Can)",0.06
 PULM,"Sabby Management, LLC",8.57
 PULM,"Renaissance Technologies, LLC",3.08
 PULM,"Blackrock Inc.",1.51
@@ -46410,7 +46410,7 @@ QLGN,"Virtu Financial LLC",0.25
 QLGN,"Highmark Wealth Management LLC",0.19
 QLGN,"UBS Group AG",0.05
 QLGN,"Group One Trading, L.P.",0.03
-QLGN,"U.S. Bancorp\DE\",0.01
+QLGN,"U.S. Bancorp(DE)",0.01
 QLGN,"ICA Group Wealth Management, LLC",0.01
 QLI,"Geode Capital Management, LLC",0.07
 QLI,"UBS Group AG",0.02
@@ -46539,7 +46539,7 @@ QSR,"Edgepoint Investment Group Inc.",4.53
 QSR,"Vanguard Group, Inc. (The)",3.52
 QSR,"Jarislowsky, Fraser Ltd",3.27
 QSR,"Beutel, Goodman & Company Ltd",2.82
-QSR,"Bank of Montreal/Can/",1.93
+QSR,"Bank of Montreal(Can)",1.93
 QSR,"Mackenzie Financial Corporation",1.81
 QSR,"Capital Research Global Investors",1.69
 QTEK,"Wasatch Advisors Inc",4.37
@@ -46925,13 +46925,13 @@ RCG,"Morgan Stanley",0.16
 RCG,"UBS Group AG",0.10
 RCI,"FIL LTD",8.99
 RCI,"Royal Bank of Canada",5.65
-RCI,"Bank of Montreal/Can/",5.26
+RCI,"Bank of Montreal(Can)",5.26
 RCI,"1832 Asset Management L.P.",2.88
 RCI,"Beutel, Goodman & Company Ltd",2.77
 RCI,"TD Asset Management, Inc",2.72
 RCI,"Mackenzie Financial Corporation",1.94
 RCI,"Bank Of Nova Scotia /",1.82
-RCI,"National Bank of Canada/FI",1.49
+RCI,"National Bank of Canada-FI",1.49
 RCI,"Toronto Dominion Bank",1.25
 RCKT,"RTW Investments LP",22.29
 RCKT,"Blackrock Inc.",7.04
@@ -47999,7 +47999,7 @@ RLYB,"New Leaf Venture Partners, L.l.c.",8.67
 RLYB,"FMR, LLC",8.52
 RLYB,"TPG GP A, LLC",7.95
 RLYB,"Pivotal bioVenture Partners Investment Advisor, LLC",6.32
-RLYB,"Novo Holdings A/S",6.03
+RLYB,"Novo Holdings",6.03
 RLYB,"Canaan Partners XI LLC",5.41
 RLYB,"Tekla Capital Management LLCC.",4.54
 RLYB,"Vanguard Group, Inc. (The)",2.54
@@ -48085,7 +48085,7 @@ RMED,"Aspire Private Capital, LLC",0.00
 RMED,"Harbour Investments, Inc.",0.00
 RMGC,"Aristeia Capital, LLC",7.86
 RMGC,"Glazer Capital LLC",7.16
-RMGC,"Bank of Montreal/Can/",4.30
+RMGC,"Bank of Montreal(Can)",4.30
 RMGC,"Millennium Management Llc",4.27
 RMGC,"HSBC Holdings Plc",4.00
 RMGC,"Mizuho Markets Americas, LLC",3.59
@@ -48515,7 +48515,7 @@ RPD,"Bank Of New York Mellon Corporation",2.30
 RPD,"Federated Hermes, Inc.",2.18
 RPD,"Macquarie Group Limited",2.12
 RPHM,"NEA Management Company, LLC",19.51
-RPHM,"Novo Holdings A/S",13.98
+RPHM,"Novo Holdings",13.98
 RPHM,"Rivervest Venture Management LLC",9.82
 RPHM,"Abingworth, LLP",8.45
 RPHM,"Rock Springs Capital Management, LP",4.66
@@ -48900,7 +48900,7 @@ RVYL,"United Capital Financial Advisers, LLC",0.22
 RWAY,"Oaktree Capital Management Lp",51.97
 RWAY,"HighTower Advisors, LLC",2.38
 RWAY,"Ares Management LLC",1.36
-RWAY,"U.S. Bancorp\DE\",1.25
+RWAY,"U.S. Bancorp(DE)",1.25
 RWAY,"Bulldog Investors, LLC",0.72
 RWAY,"Citadel Advisors Llc",0.30
 RWAY,"Edge Capital Group LLC",0.28
@@ -48998,7 +48998,7 @@ RXT,"State Street Corporation",0.52
 RXT,"Jane Street Group, LLC",0.32
 RXT,"Dimensional Fund Advisors LP",0.30
 RY,"Royal Bank of Canada",5.52
-RY,"Bank of Montreal/Can/",5.01
+RY,"Bank of Montreal(Can)",5.01
 RY,"Vanguard Group, Inc. (The)",3.66
 RY,"Mackenzie Financial Corporation",2.01
 RY,"TD Asset Management, Inc",1.99
@@ -49006,7 +49006,7 @@ RY,"FIL LTD",1.72
 RY,"Bank Of Nova Scotia /",1.57
 RY,"Cibc World Markets, Inc.",1.49
 RY,"1832 Asset Management L.P.",1.35
-RY,"National Bank of Canada/FI",1.25
+RY,"National Bank of Canada-FI",1.25
 RYAAY,"Capital International Investors",5.05
 RYAAY,"Harris Associates L.P.",4.67
 RYAAY,"Massachusetts Financial Services Co.",4.58
@@ -49087,7 +49087,7 @@ S,"Capital Research Global Investors",3.11
 S,"First Trust Advisors LP",2.91
 S,"T. Rowe Price Investment Management, Inc.",2.25
 S,"Citadel Advisors Llc",2.06
-SA,"National Bank of Canada/FI",5.68
+SA,"National Bank of Canada-FI",5.68
 SA,"Van Eck Associates Corporation",4.51
 SA,"Kopernik Global Investors, LLC",4.29
 SA,"Paulson & Company, Inc.",2.55
@@ -49298,7 +49298,7 @@ SANG,"Fiera Capital Corporation",2.44
 SANG,"Manufacturers Life Insurance Co.",1.69
 SANG,"Royal Bank of Canada",0.66
 SANG,"Claret Asset Management Corp",0.30
-SANG,"National Bank of Canada/FI",0.13
+SANG,"National Bank of Canada-FI",0.13
 SANG,"Bard Associates Inc.",0.07
 SANM,"Blackrock Inc.",16.57
 SANM,"Vanguard Group, Inc. (The)",11.31
@@ -49461,10 +49461,10 @@ SBFG,"Pinnacle Holdings, LLC",2.35
 SBFG,"Dimensional Fund Advisors LP",2.15
 SBFG,"Millennium Management Llc",0.89
 SBFM,"Bridgeway Capital Management, Inc.",0.06
-SBFM,"Bank of Montreal/Can/",0.01
+SBFM,"Bank of Montreal(Can)",0.01
 SBFM,"Virtu Financial LLC",0.01
 SBFM,"Rise Advisors, LLC",0.00
-SBFM,"National Bank of Canada/FI",0.00
+SBFM,"National Bank of Canada-FI",0.00
 SBFM,"New England Capital Financial Advisors LLC",0.00
 SBFM,"UBS Group AG",0.00
 SBFM,"Geode Capital Management, LLC",0.00
@@ -49906,7 +49906,7 @@ SDAC,"Adage Capital Partners GP L.L.C.",3.95
 SDAC,"First Trust Capital Management L.P.",3.81
 SDAC,"HSBC Holdings Plc",3.56
 SDAC,"Nomura Holdings Inc.",3.54
-SDAC,"Bank of Montreal/Can/",2.61
+SDAC,"Bank of Montreal(Can)",2.61
 SDAC,"Shaw D.E. & Co., Inc.",2.30
 SDC,"Vanguard Group, Inc. (The)",7.99
 SDC,"Prentice Capital Management, LP",3.78
@@ -50995,7 +50995,7 @@ SJR,"Morgan Stanley",4.21
 SJR,"Royal Bank of Canada",3.39
 SJR,"Vanguard Group, Inc. (The)",3.29
 SJR,"FIL LTD",2.99
-SJR,"Bank of Montreal/Can/",2.95
+SJR,"Bank of Montreal(Can)",2.95
 SJR,"Bank of America Corporation",2.86
 SJR,"Millennium Management Llc",1.98
 SJR,"Pentwater Capital Management Lp",1.70
@@ -51202,7 +51202,7 @@ SLACU,"Tower Research Capital LLC (TRC)",0.00
 SLAM,"Glazer Capital LLC",9.92
 SLAM,"Corbin Capital Partners, LP",7.83
 SLAM,"First Trust Capital Management L.P.",6.94
-SLAM,"Bank of Montreal/Can/",5.10
+SLAM,"Bank of Montreal(Can)",5.10
 SLAM,"Aristeia Capital, LLC",4.94
 SLAM,"Millennium Management Llc",4.52
 SLAM,"Adage Capital Partners GP L.L.C.",3.48
@@ -51263,7 +51263,7 @@ SLF,"Royal Bank of Canada",8.88
 SLF,"Vanguard Group, Inc. (The)",3.58
 SLF,"Mackenzie Financial Corporation",2.86
 SLF,"TD Asset Management, Inc",2.30
-SLF,"Bank of Montreal/Can/",2.06
+SLF,"Bank of Montreal(Can)",2.06
 SLF,"Bank Of Nova Scotia /",1.92
 SLF,"Beutel, Goodman & Company Ltd",1.81
 SLF,"FIL LTD",1.63
@@ -51883,7 +51883,7 @@ SNOA,"Citadel Advisors Llc",0.59
 SNOA,"Tower Research Capital LLC (TRC)",0.16
 SNOA,"Blackrock Inc.",0.09
 SNOA,"UBS Group AG",0.09
-SNOA,"U.S. Bancorp\DE\",0.02
+SNOA,"U.S. Bancorp(DE)",0.02
 SNOA,"Advisor Group, Inc.",0.01
 SNOW,"Vanguard Group, Inc. (The)",5.38
 SNOW,"Altimeter Capital Management, LP",5.29
@@ -51949,7 +51949,7 @@ SNT,"Grace & White Inc /ny",4.43
 SNT,"Renaissance Technologies, LLC",2.68
 SNT,"Wells Fargo & Company",2.07
 SNT,"Janney Montgomery Scott LLC",1.10
-SNT,"U.S. Bancorp\DE\",0.78
+SNT,"U.S. Bancorp(DE)",0.78
 SNT,"Millennium Management Llc",0.09
 SNT,"First Manhattan Company",0.08
 SNT,"Susquehanna International Group, LLP",0.08
@@ -52459,7 +52459,7 @@ SPR,"Marshall Wace LLP",2.86
 SPR,"Ubs Asset Management Americas Inc",2.78
 SPR,"Earnest Partners LLC",2.57
 SPR,"Maple Rock Capital Partners, Inc.",2.45
-SPRB,"Novo Holdings A/S",19.16
+SPRB,"Novo Holdings",19.16
 SPRB,"Omega Fund Management, Llc",9.17
 SPRB,"Rivervest Venture Management LLC",9.12
 SPRB,"Abingworth, LLP",7.61
@@ -52972,7 +52972,7 @@ SSY,"State Street Corporation",0.61
 SSY,"Geode Capital Management, LLC",0.47
 SSY,"Dimensional Fund Advisors LP",0.41
 SSY,"Wittenberg Investment Management, Inc.",0.35
-SSY,"National Bank of Canada/FI",0.28
+SSY,"National Bank of Canada-FI",0.28
 SSYS,"Phoenix Holdings Ltd.",5.93
 SSYS,"Primecap Management Company",4.55
 SSYS,"Neuberger Berman Group, LLC",4.29
@@ -53236,7 +53236,7 @@ STN,"Mackenzie Financial Corporation",12.15
 STN,"Jarislowsky, Fraser Ltd",8.44
 STN,"Vanguard Group, Inc. (The)",3.59
 STN,"Royal Bank of Canada",2.93
-STN,"Bank of Montreal/Can/",2.55
+STN,"Bank of Montreal(Can)",2.55
 STN,"Pictet Asset Management SA",2.05
 STN,"Fiera Capital Corporation",1.90
 STN,"Amundi",1.42
@@ -53453,7 +53453,7 @@ STZ,"Morgan Stanley",1.57
 SU,"Royal Bank of Canada",5.13
 SU,"Vanguard Group, Inc. (The)",3.64
 SU,"Dodge & Cox Inc",3.15
-SU,"Bank of Montreal/Can/",2.99
+SU,"Bank of Montreal(Can)",2.99
 SU,"Sanders Capital, LLC",2.55
 SU,"TD Asset Management, Inc",2.07
 SU,"FMR, LLC",2.04
@@ -53957,7 +53957,7 @@ SYTA,"Cetera Advisor Networks LLC",0.04
 SYTA,"Y.D. More Investments Ltd",0.03
 SYTA,"Geode Capital Management, LLC",0.03
 SYTA,"Renaissance Technologies, LLC",0.02
-SYTA,"National Bank of Canada/FI",0.00
+SYTA,"National Bank of Canada-FI",0.00
 SYTA,"Royal Bank of Canada",0.00
 SYY,"Vanguard Group, Inc. (The)",9.29
 SYY,"Wellington Management Group, LLP",6.34
@@ -54015,7 +54015,7 @@ TA,"Bridgeway Capital Management, Inc.",1.80
 TAC,"Royal Bank of Canada",14.57
 TAC,"Brookfield Asset Management Inc.",13.21
 TAC,"Marquard & Bahls Ag",5.60
-TAC,"Bank of Montreal/Can/",4.10
+TAC,"Bank of Montreal(Can)",4.10
 TAC,"CIBC Asset Management Inc.",4.08
 TAC,"Vanguard Group, Inc. (The)",2.96
 TAC,"Rubric Capital Management LP",1.93
@@ -54361,7 +54361,7 @@ TCMD,"Morgan Stanley",3.00
 TCMD,"Royce & Associates LP",2.35
 TCMD,"AQR Capital Management, LLC",2.06
 TCMD,"Brandywine Global Investment Management, LLC",2.01
-TCN,"Bank of Montreal/Can/",6.59
+TCN,"Bank of Montreal(Can)",6.59
 TCN,"Cohen & Steers Inc.",5.18
 TCN,"Wellington Management Group, LLP",4.78
 TCN,"Royal Bank of Canada",4.61
@@ -54458,7 +54458,7 @@ TCVA,"Aristeia Capital, LLC",5.02
 TCVA,"Adage Capital Partners GP L.L.C.",4.87
 TCVA,"Marshall Wace LLP",4.74
 TCVA,"Shaw D.E. & Co., Inc.",4.02
-TCVA,"Bank of Montreal/Can/",4.00
+TCVA,"Bank of Montreal(Can)",4.00
 TCVA,"Citadel Advisors Llc",3.97
 TCVA,"Sculptor Capital Lp",3.24
 TCX,"Investmentaktiengesellschaft Fuer Langfristige Investoren Tgv",15.87
@@ -54472,7 +54472,7 @@ TCX,"Renaissance Technologies, LLC",2.90
 TCX,"Van Berkom & Associates Inc.",2.26
 TCX,"State Street Corporation",1.85
 TD,"Royal Bank of Canada",8.55
-TD,"Bank of Montreal/Can/",4.89
+TD,"Bank of Montreal(Can)",4.89
 TD,"Vanguard Group, Inc. (The)",3.69
 TD,"Capital Research Global Investors",2.08
 TD,"TD Asset Management, Inc",1.99
@@ -54615,7 +54615,7 @@ TEF,"Pacer Advisors, Inc.",0.07
 TEF,"Jane Street Group, LLC",0.04
 TEF,"Northern Trust Corporation",0.04
 TEF,"Royal Bank of Canada",0.04
-TEF,"Bank of Montreal/Can/",0.03
+TEF,"Bank of Montreal(Can)",0.03
 TEI,"Morgan Stanley",5.38
 TEI,"Evergreen Capital Management Llc",5.19
 TEI,"Invesco Ltd.",1.79
@@ -54804,7 +54804,7 @@ TFII,"Royal Bank of Canada",2.51
 TFII,"Turtle Creek Asset Management Inc.",1.91
 TFII,"Capital Group International, Inc./CA/",1.72
 TFII,"Manufacturers Life Insurance Co.",1.45
-TFII,"Bank of Montreal/Can/",1.25
+TFII,"Bank of Montreal(Can)",1.25
 TFII,"1832 Asset Management L.P.",1.18
 TFIN,"Blackrock Inc.",14.52
 TFIN,"Vanguard Group, Inc. (The)",8.45
@@ -55166,7 +55166,7 @@ THTX,"Soleus Capital Management, L.P.",9.25
 THTX,"Morgan Stanley",8.28
 THTX,"AIGH Capital Management LLC",4.03
 THTX,"Worth Venture Partners, Llc",1.00
-THTX,"National Bank of Canada/FI",0.55
+THTX,"National Bank of Canada-FI",0.55
 THTX,"Advisor Group, Inc.",0.46
 THTX,"Cyndeo Wealth Partners, LLC",0.44
 THTX,"Cibc World Markets, Inc.",0.44
@@ -55319,7 +55319,7 @@ TIXT,"Franklin Resources, Inc.",2.15
 TIXT,"Capital Group International, Inc./CA/",2.12
 TIXT,"FIL LTD",2.02
 TIXT,"QV Investors Inc.",1.99
-TIXT,"Bank of Montreal/Can/",1.37
+TIXT,"Bank of Montreal(Can)",1.37
 TJX,"Wellington Management Group, LLP",9.77
 TJX,"Vanguard Group, Inc. (The)",7.85
 TJX,"Blackrock Inc.",6.48
@@ -55435,8 +55435,8 @@ TLRY,"Morgan Stanley",0.63
 TLRY,"Shaw D.E. & Co., Inc.",0.55
 TLRY,"Millennium Management Llc",0.44
 TLRY,"Vanguard Group, Inc. (The)",0.37
-TLRY,"National Bank of Canada/FI",0.36
-TLRY,"Bank of Montreal/Can/",0.29
+TLRY,"National Bank of Canada-FI",0.36
+TLRY,"Bank of Montreal(Can)",0.29
 TLRY,"Alyeska Investment Group, L.p.",0.26
 TLRY,"Blackrock Inc.",0.26
 TLS,"Vanguard Group, Inc. (The)",7.15
@@ -56002,7 +56002,7 @@ TRI,"Royal Bank of Canada",3.27
 TRI,"Jarislowsky, Fraser Ltd",1.33
 TRI,"Mackenzie Financial Corporation",1.31
 TRI,"FIL LTD",1.26
-TRI,"Bank of Montreal/Can/",1.20
+TRI,"Bank of Montreal(Can)",1.20
 TRI,"Vanguard Group, Inc. (The)",1.17
 TRI,"Manufacturers Life Insurance Co.",0.95
 TRI,"FMR, LLC",0.92
@@ -56168,7 +56168,7 @@ TROX,"Nuveen Asset Management",1.16
 TRP,"Royal Bank of Canada",9.44
 TRP,"Capital World Investors",6.91
 TRP,"Vanguard Group, Inc. (The)",3.57
-TRP,"Bank of Montreal/Can/",3.50
+TRP,"Bank of Montreal(Can)",3.50
 TRP,"Price (T.Rowe) Associates Inc",2.95
 TRP,"Capital International Investors",2.91
 TRP,"Capital Research Global Investors",2.78
@@ -56310,7 +56310,7 @@ TRX,"Hillsdale Investment Management Inc.",0.30
 TRX,"Guild Investment Management, Inc.",0.12
 TRX,"HighTower Advisors, LLC",0.10
 TRX,"Renaissance Technologies, LLC",0.10
-TRX,"Bank of Montreal/Can/",0.10
+TRX,"Bank of Montreal(Can)",0.10
 TRX,"Morgan Stanley",0.05
 TRX,"First Foundation Advisors",0.04
 TRX,"Financial Sense Advisors, Inc.",0.04
@@ -56620,7 +56620,7 @@ TTWO,"Massachusetts Financial Services Co.",1.93
 TTWO,"Invesco Ltd.",1.69
 TU,"Royal Bank of Canada",10.26
 TU,"Mackenzie Financial Corporation",3.85
-TU,"Bank of Montreal/Can/",3.69
+TU,"Bank of Montreal(Can)",3.69
 TU,"TD Asset Management, Inc",2.81
 TU,"Manufacturers Life Insurance Co.",2.54
 TU,"1832 Asset Management L.P.",1.77
@@ -56706,7 +56706,7 @@ TWCB,"Marshall Wace LLP",4.70
 TWCB,"Deutsche Bank Aktiengesellschaft",4.15
 TWCB,"Millennium Management Llc",3.56
 TWCB,"RP Investment Advisors LP",3.56
-TWCB,"Bank of Montreal/Can/",3.17
+TWCB,"Bank of Montreal(Can)",3.17
 TWCB,"Westchester Capital Management, LLC",3.13
 TWI,"Blackrock Inc.",13.55
 TWI,"MHR Fund Management, LLC",12.74
@@ -57799,7 +57799,7 @@ USEA,"UBS Group AG",0.21
 USEA,"Barclays Plc",0.06
 USEA,"Morgan Stanley",0.06
 USEA,"Tower Research Capital LLC (TRC)",0.03
-USEA,"National Bank of Canada/FI",0.01
+USEA,"National Bank of Canada-FI",0.01
 USEG,"Vanguard Group, Inc. (The)",0.91
 USEG,"Geode Capital Management, LLC",0.32
 USEG,"Verity Asset Management, Inc.",0.27
@@ -57981,7 +57981,7 @@ UUU,"State Street Corporation",0.74
 UUU,"Geode Capital Management, LLC",0.60
 UUU,"Summit X, LLC",0.50
 UUU,"Tower Research Capital LLC (TRC)",0.11
-UUU,"National Bank of Canada/FI",0.04
+UUU,"National Bank of Canada-FI",0.04
 UUU,"Blackrock Inc.",0.03
 UUUU,"Mirae Asset Global Investments Co., Ltd.",5.35
 UUUU,"Blackrock Inc.",4.88
@@ -58098,7 +58098,7 @@ VALE,"Capital Research Global Investors",2.75
 VALE,"Capital International Investors",2.12
 VALE,"Blackrock Inc.",1.18
 VALE,"Goldman Sachs Group Inc",0.94
-VALE,"National Bank of Canada/FI",0.72
+VALE,"National Bank of Canada-FI",0.72
 VALE,"Invesco Ltd.",0.71
 VALE,"Schroder Investment Management Group",0.70
 VALE,"FMR, LLC",0.45
@@ -58144,7 +58144,7 @@ VAPO,"Blackrock Inc.",1.57
 VAPO,"Rivervest Venture Management LLC",1.45
 VAQC,"Glazer Capital LLC",9.94
 VAQC,"Millennium Management Llc",7.34
-VAQC,"Bank of Montreal/Can/",4.94
+VAQC,"Bank of Montreal(Can)",4.94
 VAQC,"Marshall Wace LLP",4.72
 VAQC,"Magnetar Financial LLC",4.37
 VAQC,"Farallon Capital Management Llc",3.78
@@ -58368,7 +58368,7 @@ VECO,"Neumeier Poma Investment Counsel, LLC",2.50
 VECO,"Manufacturers Life Insurance Co.",2.39
 VECT,"Orbimed Advisors LLC.",10.32
 VECT,"CHI Advisors LLC",6.57
-VECT,"Novo Holdings A/S",5.32
+VECT,"Novo Holdings",5.32
 VECT,"Citadel Advisors Llc",5.01
 VECT,"Bpifrance SA",4.47
 VECT,"Cormorant Asset Management, LP",4.04
@@ -58501,7 +58501,7 @@ VET,"Vanguard Group, Inc. (The)",3.36
 VET,"Bank Of Nova Scotia /",1.47
 VET,"Dimensional Fund Advisors LP",1.47
 VET,"Royal Bank of Canada",1.44
-VET,"National Bank of Canada/FI",1.12
+VET,"National Bank of Canada-FI",1.12
 VET,"American Century Companies, Inc.",0.94
 VET,"Alberta Investment Managament Corp",0.81
 VET,"Shaw D.E. & Co., Inc.",0.71
@@ -58512,7 +58512,7 @@ VEV,"Perkins Capital Management, Inc.",0.12
 VEV,"Scotia Capital Inc.",0.06
 VEV,"Warberg Asset Management LLC",0.06
 VEV,"Susquehanna International Group, LLP",0.04
-VEV,"National Bank of Canada/FI",0.03
+VEV,"National Bank of Canada-FI",0.03
 VEV,"Aristides Capital, LLC",0.02
 VEV,"Royal Bank of Canada",0.02
 VEV,"Inspire Advisors, Llc",0.02
@@ -58898,7 +58898,7 @@ VLAT,"Aristeia Capital, LLC",8.12
 VLAT,"Millennium Management Llc",7.64
 VLAT,"Sharp Capital Gestora de Recursos Ltda",4.78
 VLAT,"Saba Capital Management, L.P.",4.58
-VLAT,"Bank of Montreal/Can/",4.39
+VLAT,"Bank of Montreal(Can)",4.39
 VLAT,"Arena Capital Advisors, LLC- CA",4.12
 VLAT,"Westchester Capital Management, LLC",3.99
 VLAT,"Glazer Capital LLC",3.14
@@ -59023,7 +59023,7 @@ VMAR,"Wells Fargo & Company",0.05
 VMAR,"UBS Group AG",0.04
 VMAR,"Morgan Stanley",0.02
 VMAR,"Advisor Group, Inc.",0.01
-VMAR,"National Bank of Canada/FI",0.01
+VMAR,"National Bank of Canada-FI",0.01
 VMC,"Vanguard Group, Inc. (The)",10.78
 VMC,"Blackrock Inc.",7.91
 VMC,"State Farm Mutual Automobile Insurance Co",7.49
@@ -59855,7 +59855,7 @@ VYNT,"Blackrock Inc.",0.09
 VYNT,"Mayo Clinic",0.09
 VYNT,"State Street Corporation",0.05
 VYNT,"Northern Trust Corporation",0.03
-VYNT,"U.S. Bancorp\DE\",0.02
+VYNT,"U.S. Bancorp(DE)",0.02
 VYNT,"UBS Group AG",0.02
 VYNT,"Citadel Advisors Llc",0.01
 VZ,"Vanguard Group, Inc. (The)",8.44
@@ -60092,7 +60092,7 @@ WCN,"Capital International Investors",3.70
 WCN,"Royal Bank of Canada",3.61
 WCN,"WCM Investment Management, LLC",3.51
 WCN,"Price (T.Rowe) Associates Inc",3.19
-WCN,"Bank of Montreal/Can/",3.09
+WCN,"Bank of Montreal(Can)",3.09
 WCN,"Pictet Asset Management SA",2.67
 WCN,"TD Asset Management, Inc",2.07
 WD,"Blackrock Inc.",15.01
@@ -60198,7 +60198,7 @@ WEJO,"Tikvah Management LLC",2.34
 WEJO,"Blackrock Inc.",1.48
 WEJO,"State Street Corporation",0.87
 WEJO,"Lansdowne Partners (UK) LLP",0.78
-WEJO,"U.S. Bancorp\DE\",0.63
+WEJO,"U.S. Bancorp(DE)",0.63
 WEJO,"Vanguard Group, Inc. (The)",0.60
 WEJO,"Geode Capital Management, LLC",0.53
 WEL,"Saba Capital Management, L.P.",7.18
@@ -60338,7 +60338,7 @@ WFCF,"Adirondack Trust Co",0.01
 WFG,"Pictet Asset Management SA",4.64
 WFG,"Vanguard Group, Inc. (The)",3.37
 WFG,"Royal Bank of Canada",2.48
-WFG,"Bank of Montreal/Can/",2.18
+WFG,"Bank of Montreal(Can)",2.18
 WFG,"Norges Bank Investment Management",1.99
 WFG,"Letko, Brosseau & Associates Inc.",1.39
 WFG,"Mackenzie Financial Corporation",1.17
@@ -60477,7 +60477,7 @@ WIA,"Fiera Capital Corporation",0.79
 WILC,"Springhouse Capital Management, LP",1.30
 WILC,"Renaissance Technologies, LLC",1.11
 WILC,"Phoenix Holdings Ltd.",0.33
-WILC,"Bank of Montreal/Can/",0.02
+WILC,"Bank of Montreal(Can)",0.02
 WILC,"Y.D. More Investments Ltd",0.01
 WIMI,"Renaissance Technologies, LLC",0.38
 WIMI,"Morgan Stanley",0.17
@@ -60941,7 +60941,7 @@ WRAC,"Hudson Bay Capital Management Lp",3.27
 WRAC,"Alberta Investment Managament Corp",3.13
 WRAC,"Highbridge Capital Management, LLC.",2.45
 WRAP,"Vanguard Group, Inc. (The)",3.84
-WRAP,"U.S. Bancorp\DE\",1.83
+WRAP,"U.S. Bancorp(DE)",1.83
 WRAP,"Blackrock Inc.",1.78
 WRAP,"Geode Capital Management, LLC",0.94
 WRAP,"Redmond Asset Management, LLC",0.75
@@ -61362,7 +61362,7 @@ WYNN,"Blackrock Inc.",5.85
 WYNN,"State Street Corporation",3.43
 WYNN,"Jefferies Group LLC",2.09
 WYNN,"Geode Capital Management, LLC",1.90
-WYNN,"Bank of Montreal/Can/",1.75
+WYNN,"Bank of Montreal(Can)",1.75
 WYNN,"Nomura Holdings Inc.",1.44
 WYNN,"Invesco Ltd.",1.36
 WYY,"Vanguard Group, Inc. (The)",4.47
@@ -62003,7 +62003,7 @@ YTPG,"Jane Street Group, LLC",7.77
 YTPG,"Empyrean Capital Partners, LP",4.88
 YTPG,"Guggenheim Capital, LLC",4.73
 YTPG,"Marshall Wace LLP",4.69
-YTPG,"Bank of Montreal/Can/",3.99
+YTPG,"Bank of Montreal(Can)",3.99
 YTPG,"Saba Capital Management, L.P.",3.93
 YTPG,"TD Asset Management, Inc",3.05
 YTPG,"Public Sector Pension Investment Board",3.04
@@ -62342,7 +62342,7 @@ ZT,"Adage Capital Partners GP L.L.C.",7.83
 ZT,"Covalis Capital LLP",5.80
 ZT,"Millennium Management LLC",3.23
 ZT,"Weiss Asset Management LP",3.21
-ZT,"Bank of Montreal/Can/",3.04
+ZT,"Bank of Montreal(Can)",3.04
 ZT,"Fir Tree Capital Management LLP",2.90
 ZT,"Alberta Investment Managament Corp",2.75
 ZT,"Apollo Management Holdings, L.p.",2.58
@@ -62359,10 +62359,10 @@ ZTAQU,"Gritstone Asset Management LLC",0.30
 ZTAQU,"Schechter Investment Advisors, LLC",0.21
 ZTEK,"Scotia Capital Inc.",0.48
 ZTEK,"Royal Bank of Canada",0.09
-ZTEK,"Bank of Montreal/Can/",0.07
+ZTEK,"Bank of Montreal(Can)",0.07
 ZTEK,"Cutter & Co. Brokerage, Inc.",0.02
 ZTEK,"Harrison (K.J.) & Partners, Inc.",0.02
-ZTEK,"National Bank of Canada/FI",0.02
+ZTEK,"National Bank of Canada-FI",0.02
 ZTEK,"Cibc World Markets, Inc.",0.01
 ZTEK,"Cambridge Investment Research Advisors Inc.",0.01
 ZTEK,"Tradition Wealth Management, LLC",0.01

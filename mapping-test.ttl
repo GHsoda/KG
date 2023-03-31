@@ -1,0 +1,303 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ql: <http://semweb.mmlab.be/ns/ql#> .
+@prefix map: <http://mapping.example.com/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
+@prefix ns: <http://example.org/> .
+
+map:map_companies_000 rml:logicalSource map:source_000 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "companies" ;
+	rr:predicateObjectMap map:pom_000, map:pom_001, map:pom_002, map:pom_003, map:pom_004, map:pom_005, map:pom_006, map:pom_007, map:pom_008, map:pom_009, map:pom_010, map:pom_011 ;
+	rr:subjectMap map:s_000 .
+
+map:map_executives_000 rml:logicalSource map:source_001 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "executives" ;
+	rr:predicateObjectMap map:pom_012, map:pom_013, map:pom_014, map:pom_015 ;
+	rr:subjectMap map:s_001 .
+
+map:map_institutional_holders_000 rml:logicalSource map:source_002 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "institutional_holders" ;
+	rr:predicateObjectMap map:pom_016, map:pom_017 ;
+	rr:subjectMap map:s_002 .
+
+map:map_investment_000 rml:logicalSource map:source_003 ;
+	rdf:type rr:TriplesMap ;
+	rdfs:label "investment" ;
+	rr:predicateObjectMap map:pom_018, map:pom_019, map:pom_020 ;
+	rr:subjectMap map:s_003 .
+
+map:om_000 rdf:type rr:ObjectMap ;
+	rr:constant "http://example.org/Company" ;
+	rr:termType rr:IRI .
+
+map:om_001 rml:reference "Symbol" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_002 rml:reference "Name" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_003 rml:reference "Last Sale" ;
+	rdf:type rr:ObjectMap ;
+	rr:datatype xsd:float ;
+	rr:termType rr:Literal .
+
+map:om_004 rml:reference "Net Change" ;
+	rdf:type rr:ObjectMap ;
+	rr:datatype xsd:float ;
+	rr:termType rr:Literal .
+
+map:om_005 rml:reference "% Change" ;
+	rdf:type rr:ObjectMap ;
+	rr:datatype xsd:float ;
+	rr:termType rr:Literal .
+
+map:om_006 rml:reference "Market Cap" ;
+	rdf:type rr:ObjectMap ;
+	rr:datatype xsd:float ;
+	rr:termType rr:Literal .
+
+map:om_007 rml:reference "Country" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_008 rml:reference "IPO Year" ;
+	rdf:type rr:ObjectMap ;
+	rr:datatype xsd:integer ;
+	rr:termType rr:Literal .
+
+map:om_009 rml:reference "Volume" ;
+	rdf:type rr:ObjectMap ;
+	rr:datatype xsd:integer ;
+	rr:termType rr:Literal .
+
+map:om_010 rml:reference "Sector" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_011 rml:reference "Industry" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_012 rdf:type rr:ObjectMap ;
+	rr:constant "http://example.org/Person" ;
+	rr:termType rr:IRI .
+
+map:om_013 rml:reference "Name" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_014 rml:reference "Title" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_015 rdf:type rr:ObjectMap ;
+	rr:template "http://example.org/{Ticker}" ;
+	rr:termType rr:Literal .
+
+map:om_016 rdf:type rr:ObjectMap ;
+	rr:constant "http://example.org/InstitutionalInvestor" ;
+	rr:termType rr:IRI .
+
+map:om_017 rml:reference "Holder" ;
+	rdf:type rr:ObjectMap ;
+	rr:termType rr:Literal .
+
+map:om_018 rdf:type rr:ObjectMap ;
+	rr:template "http://example.org/{Holder}" ;
+	rr:termType rr:Literal .
+
+map:om_019 rdf:type rr:ObjectMap ;
+	rr:constant "Ticker" ;
+	rr:termType rr:Literal .
+
+map:om_020 rml:reference "Share" ;
+	rdf:type rr:ObjectMap ;
+	rr:datatype xsd:float ;
+	rr:termType rr:Literal .
+
+map:pm_000 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_001 rdf:type rr:PredicateMap ;
+	rr:constant ns:symbol .
+
+map:pm_002 rdf:type rr:PredicateMap ;
+	rr:constant ns:name .
+
+map:pm_003 rdf:type rr:PredicateMap ;
+	rr:constant ns:lastSale .
+
+map:pm_004 rdf:type rr:PredicateMap ;
+	rr:constant ns:netChange .
+
+map:pm_005 rdf:type rr:PredicateMap ;
+	rr:constant ns:percentChange .
+
+map:pm_006 rdf:type rr:PredicateMap ;
+	rr:constant ns:marketCap .
+
+map:pm_007 rdf:type rr:PredicateMap ;
+	rr:constant ns:country .
+
+map:pm_008 rdf:type rr:PredicateMap ;
+	rr:constant ns:ipoYear .
+
+map:pm_009 rdf:type rr:PredicateMap ;
+	rr:constant ns:volume .
+
+map:pm_010 rdf:type rr:PredicateMap ;
+	rr:constant ns:sector .
+
+map:pm_011 rdf:type rr:PredicateMap ;
+	rr:constant ns:industry .
+
+map:pm_012 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_013 rdf:type rr:PredicateMap ;
+	rr:constant ns:name .
+
+map:pm_014 rdf:type rr:PredicateMap ;
+	rr:constant ns:title .
+
+map:pm_015 rdf:type rr:PredicateMap ;
+	rr:constant ns:isExecutiveOf .
+
+map:pm_016 rdf:type rr:PredicateMap ;
+	rr:constant rdf:type .
+
+map:pm_017 rdf:type rr:PredicateMap ;
+	rr:constant ns:name .
+
+map:pm_018 rdf:type rr:PredicateMap ;
+	rr:constant ns:investor .
+
+map:pm_019 rdf:type rr:PredicateMap ;
+	rr:constant <shareholderOf> .
+
+map:pm_020 rdf:type rr:PredicateMap ;
+	rr:constant ns:sharePercentage .
+
+map:pom_000 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_000 ;
+	rr:predicateMap map:pm_000 .
+
+map:pom_001 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_001 ;
+	rr:predicateMap map:pm_001 .
+
+map:pom_002 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_002 ;
+	rr:predicateMap map:pm_002 .
+
+map:pom_003 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_003 ;
+	rr:predicateMap map:pm_003 .
+
+map:pom_004 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_004 ;
+	rr:predicateMap map:pm_004 .
+
+map:pom_005 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_005 ;
+	rr:predicateMap map:pm_005 .
+
+map:pom_006 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_006 ;
+	rr:predicateMap map:pm_006 .
+
+map:pom_007 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_007 ;
+	rr:predicateMap map:pm_007 .
+
+map:pom_008 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_008 ;
+	rr:predicateMap map:pm_008 .
+
+map:pom_009 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_009 ;
+	rr:predicateMap map:pm_009 .
+
+map:pom_010 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_010 ;
+	rr:predicateMap map:pm_010 .
+
+map:pom_011 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_011 ;
+	rr:predicateMap map:pm_011 .
+
+map:pom_012 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_012 ;
+	rr:predicateMap map:pm_012 .
+
+map:pom_013 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_013 ;
+	rr:predicateMap map:pm_013 .
+
+map:pom_014 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_014 ;
+	rr:predicateMap map:pm_014 .
+
+map:pom_015 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_015 ;
+	rr:predicateMap map:pm_015 .
+
+map:pom_016 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_016 ;
+	rr:predicateMap map:pm_016 .
+
+map:pom_017 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_017 ;
+	rr:predicateMap map:pm_017 .
+
+map:pom_018 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_018 ;
+	rr:predicateMap map:pm_018 .
+
+map:pom_019 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_019 ;
+	rr:predicateMap map:pm_019 .
+
+map:pom_020 rdf:type rr:PredicateObjectMap ;
+	rr:objectMap map:om_020 ;
+	rr:predicateMap map:pm_020 .
+
+map:rules_000 <http://rdfs.org/ns/void#exampleResource> map:map_companies_000, map:map_executives_000, map:map_institutional_holders_000, map:map_investment_000 ;
+	rdf:type <http://rdfs.org/ns/void#Dataset> .
+
+map:s_000 rdf:type rr:SubjectMap ;
+	rr:template "http://example.org/{Symbol}" .
+
+map:s_001 rdf:type rr:SubjectMap ;
+	rr:template "http://example.org/{Name}" .
+
+map:s_002 rdf:type rr:SubjectMap ;
+	rr:template "http://example.org/{Holder}" .
+
+map:s_003 rdf:type rr:SubjectMap ;
+	rr:template "http://example.org/{Holder}" .
+
+map:source_000 rml:referenceFormulation ql:CSV ;
+	rml:source "nasdaq_screener.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_001 rml:referenceFormulation ql:CSV ;
+	rml:source "Executives.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_002 rml:referenceFormulation ql:CSV ;
+	rml:source "Top_Institutional_Holders.csv" ;
+	rdf:type rml:LogicalSource .
+
+map:source_003 rml:referenceFormulation ql:CSV ;
+	rml:source "Top_Institutional_Holders.csv" ;
+	rdf:type rml:LogicalSource .
+
