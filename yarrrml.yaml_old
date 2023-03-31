@@ -22,7 +22,6 @@ mappings:
       - [ns:sector, $(Sector)]
       - [ns:industry, $(Industry)]
 
-
   executives:
     sources:
       - ['Executives.csv~csv']
@@ -40,5 +39,13 @@ mappings:
     po:
       - [a, ns:InstitutionalInvestor]
       - [ns:name, $(Holder)]
+
+  investment:
+    sources:
+      - ['Top_Institutional_Holders.csv~csv']
+    s: ns:Investment_$(Ticker)_$(Holder)
+    po:
+      - [a, ns:Investment]
+      - [ns:investor, ns:$(Holder)]
       - [ns:shareholderOf, ns:$(Ticker)]
       - [ns:sharePercentage, $(Share), xsd:float]
